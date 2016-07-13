@@ -1,4 +1,5 @@
 <code_scheme name="My Scheme">
+  <option name="FIELD_NAME_PREFIX" value="m" />
   <codeStyleSettings language="JAVA">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
