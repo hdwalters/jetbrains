@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,6 +22,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
