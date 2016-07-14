@@ -1,0 +1,14 @@
+<code_scheme name="My Scheme">
+  <option name="FIELD_NAME_PREFIX" value="m" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
