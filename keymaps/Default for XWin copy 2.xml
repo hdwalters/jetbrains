@@ -9,4 +9,10 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
 </keymap>
