@@ -14,6 +14,8 @@
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="0" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
