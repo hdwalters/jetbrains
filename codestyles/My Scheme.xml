@@ -1,8 +1,5 @@
 <code_scheme name="My Scheme">
   <option name="FIELD_NAME_PREFIX" value="m" />
-  <Python>
-    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
-  </Python>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
