@@ -7,12 +7,18 @@
             <id />
           </State>
           <State>
-            <id>Spelling</id>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Ruby</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>SpellCheckingInspection</id>
+            <id>RubyClassVariableUsageInspection</id>
           </State>
         </selected-state>
       </profile-state>
