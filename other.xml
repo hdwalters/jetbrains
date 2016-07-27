@@ -7,12 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Python</id>
+            <id>Ruby</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyShadowingNamesInspection</id>
+            <id>RubyCaseWithoutElseBlockInspection</id>
           </State>
         </selected-state>
       </profile-state>
