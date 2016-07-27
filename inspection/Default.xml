@@ -1,3 +1,4 @@
 <inspections profile_name="Default" version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </inspections>
