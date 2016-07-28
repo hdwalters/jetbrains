@@ -1,4 +1,4 @@
-<keymap version="1" name="My Scheme" parent="Default for XWin">
+<keymap version="1" name="My Scheme" parent="$default">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
