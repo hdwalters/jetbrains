@@ -7,12 +7,15 @@
             <id />
           </State>
           <State>
-            <id>Ruby</id>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Java</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>RubyCaseWithoutElseBlockInspection</id>
+            <id>WeakerAccess</id>
           </State>
         </selected-state>
       </profile-state>
