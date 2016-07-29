@@ -7,12 +7,15 @@
             <id />
           </State>
           <State>
-            <id>Python</id>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Java</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyPep8Inspection</id>
+            <id>WeakerAccess</id>
           </State>
         </selected-state>
       </profile-state>
