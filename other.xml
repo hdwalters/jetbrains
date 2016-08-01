@@ -7,12 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Ruby</id>
+            <id>Python</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>RubyEmptyRescueBlockInspection</id>
+            <id>BashSupport</id>
           </State>
         </selected-state>
       </profile-state>
