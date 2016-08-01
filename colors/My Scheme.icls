@@ -1,12 +1,10 @@
 <scheme name="My Scheme" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-07-13T10:25:46</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-07-13T10:26:01</property>
-    <property name="originalScheme">Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value />
+    </option>
+  </attributes>
 </scheme>
