@@ -7,12 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Ruby</id>
+            <id>Python</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>RubyEmptyRescueBlockInspection</id>
+            <id>BashSupport</id>
           </State>
         </selected-state>
       </profile-state>
@@ -36,6 +36,6 @@
     </option>
   </component>
   <component name="RefactoringSettings">
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
 </application>
