@@ -23,6 +23,7 @@
       <mask>*.py</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.pprop</mask>
     </recentFileMasks>
   </component>
 </application>
