@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="feature" approved="true" type="Cucumber" />
-      <mapping ext="feature" type="PLAIN_TEXT" />
-      <mapping ext="gsp" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
       <mapping ext="pprop" type="PLAIN_TEXT" />
+      <mapping ext="gsp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
