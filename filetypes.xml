@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping ext="gsp" type="PLAIN_TEXT" />
-      <mapping ext="pprop" type="Properties" />
       <mapping ext="prop" type="Properties" />
+      <mapping ext="pprop" type="Properties" />
     </extensionMap>
   </component>
 </application>
