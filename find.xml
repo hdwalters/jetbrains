@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'pisa-reuters-plugin'" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,10 +22,10 @@
       <mask>*.mxml</mask>
       <mask>*.py</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.pprop</mask>
       <mask>*.rb</mask>
       <mask>*.groovy</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
