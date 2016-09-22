@@ -10,6 +10,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="edu.emory" />
     <EXCLUDED_PACKAGE NAME="java.util.logging" />
+    <EXCLUDED_PACKAGE NAME="junit" />
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="sun" />
   </component>
