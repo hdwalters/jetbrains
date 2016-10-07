@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="clubber" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
+      <mapping pattern="sshconfig" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="gsp" type="PLAIN_TEXT" />
       <mapping ext="pprop" type="PLAIN_TEXT" />
