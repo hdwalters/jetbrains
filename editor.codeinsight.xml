@@ -12,6 +12,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.logging" />
     <EXCLUDED_PACKAGE NAME="javax.security" />
     <EXCLUDED_PACKAGE NAME="junit" />
+    <EXCLUDED_PACKAGE NAME="org.mvel2" />
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="sun" />
   </component>
