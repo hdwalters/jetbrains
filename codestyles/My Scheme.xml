@@ -1,4 +1,5 @@
 <code_scheme name="My Scheme">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FIELD_NAME_PREFIX" value="m" />
   <JetCodeStyleSettings>
     <option name="LBRACE_ON_NEXT_LINE" value="true" />

@@ -1,4 +1,5 @@
 <code_scheme name="My Scheme (Lynx)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FIELD_NAME_PREFIX" value="m" />
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
