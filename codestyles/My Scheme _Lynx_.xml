@@ -1,4 +1,5 @@
 <code_scheme name="My Scheme (Lynx)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FIELD_NAME_PREFIX" value="m" />
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
@@ -13,6 +14,7 @@
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
