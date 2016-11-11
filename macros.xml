@@ -1,7 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
+      <action id="EditorLineEnd" />
       <action id="EditorJoinLines" />
       <action id="FindNext" />
     </macro>
