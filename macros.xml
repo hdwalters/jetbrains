@@ -2,7 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLeft" />
-      <action id="EditorJoinLines" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="FindNext" />
     </macro>
   </component>
