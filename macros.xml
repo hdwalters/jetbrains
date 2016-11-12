@@ -1,10 +1,27 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDuplicate" />
-      <action id="GotoNextError" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="67:0;79:0;78:0;70:0;73:0;71:0;85:0;82:0;69:0;68:0;80:1">configuredP</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="44:0;32:0;50:1;86:0;65:0;76:0;73:0;68:0;65:0;84:0;73:0;79:0;78:0;80:1;79:0;76:0;73:0;67:0;89:0;50:1;44:0;32:0;80:1;79:1;76:1;49:0">,&amp;#x20;&quot;validationPolicy&quot;,&amp;#x20;POL1</typing>
+      <action id="EditorChooseLookupItem" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
