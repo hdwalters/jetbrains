@@ -18,4 +18,7 @@
       <option name="ERROR_STRIPE_COLOR" value="ff8080" />
     </pattern>
   </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
 </application>
