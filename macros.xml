@@ -2,13 +2,24 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <typing text-keycode="83:1;71:1;88:1">SGX</typing>
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="65:0;83:0;83:0;80:0;82:0;79:0">asspro</typing>
+      <action id="EditorChooseLookupItem" />
+      <typing text-keycode="69:0;88:0;80:0;69:0;67:0;84:0;69:0;68:0">expected</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
       <action id="EditorLineEnd" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPaste" />
+      <action id="EditorRight" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
