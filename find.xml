@@ -13,7 +13,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'lme'" />
-    <option name="FILE_MASK" value="*.pprop" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
