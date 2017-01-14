@@ -13,6 +13,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,10 +25,10 @@
       <mask>*.py</mask>
       <mask>*.rb</mask>
       <mask>ServiceIntegration*.java</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.pprop</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
