@@ -1,14 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ex_" type="PLAIN_TEXT" />
+      <mapping pattern="clubber" type="PLAIN_TEXT" />
       <mapping pattern="base64" type="PLAIN_TEXT" />
+      <mapping pattern="sshconfig" type="PLAIN_TEXT" />
+      <mapping pattern="ex" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
-      <mapping pattern="clubber" type="PLAIN_TEXT" />
-      <mapping pattern="sshconfig" type="PLAIN_TEXT" />
-      <mapping pattern="ex_" type="PLAIN_TEXT" />
-      <mapping pattern="ex" type="PLAIN_TEXT" />
-      <mapping ext="pprop" type="PLAIN_TEXT" />
       <mapping ext="prop" type="Properties" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
