@@ -11,7 +11,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,14 +20,14 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.py</mask>
       <mask>*.rb</mask>
       <mask>ServiceIntegration*.java</mask>
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.pprop</mask>
-      <mask>*document*.py</mask>
       <mask>*.java</mask>
+      <mask>*document*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
