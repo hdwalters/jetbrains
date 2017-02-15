@@ -13,7 +13,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*document*.py" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -28,8 +28,8 @@
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.pprop</mask>
-      <mask>*.java</mask>
       <mask>*document*.py</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
