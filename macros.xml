@@ -9,9 +9,9 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorBackSpace" />
-      <action id="EditorRight" />
-      <typing text-keycode="44:0">,</typing>
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="57:0;55:0">97</typing>
       <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
