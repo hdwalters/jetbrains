@@ -88,9 +88,9 @@
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
-      <debugger id="kotlin_debugger">
+      <debugger id="python">
         <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>
