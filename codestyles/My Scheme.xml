@@ -7,6 +7,7 @@
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
     <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
   </Python>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
