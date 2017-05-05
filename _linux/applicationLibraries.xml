@@ -1,15 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="debase (v0.2.1, ruby-2.3.3-p222) [gem]">
-      <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
-      </SOURCES>
-    </library>
     <library name="debase (v0.2.2.beta10, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
@@ -28,14 +18,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.9.9, ruby-2.3.3-p222) [gem]">
-      <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-ruby_core_source-0.9.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-ruby_core_source-0.9.9/lib" />
       </SOURCES>
     </library>
     <library name="groovy-1.8.6">
@@ -74,18 +56,6 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/exe" />
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.6.0, ruby-2.3.3-p222) [gem]">
-      <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
-        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
-        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
       </SOURCES>
     </library>
   </component>
