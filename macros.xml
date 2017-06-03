@@ -1,7 +1,27 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="84:0;77:0;80:0">tmp</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="FindPrevious" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorPaste" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="83:1;45:1">S_</typing>
+      <action id="EditorEscape" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
       <action id="FindNext" />
     </macro>
   </component>
