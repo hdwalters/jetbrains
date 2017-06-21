@@ -1,11 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <typing text-keycode="77:0;80:0;84:0">mpt</typing>
-      <action id="EditorNextWord" />
+      <action id="EditorJoinLines" />
       <action id="EditorLineEnd" />
-      <action id="EditorRight" />
+      <typing text-keycode="44:0">,</typing>
     </macro>
   </component>
 </application>
