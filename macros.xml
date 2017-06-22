@@ -1,9 +1,18 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorJoinLines" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <typing text-keycode="32:1;91:1;49:0;49:1;82:0;93:1">&amp;#x20;{1!r}</typing>
       <action id="EditorLineEnd" />
-      <typing text-keycode="44:0">,</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <typing text-keycode="44:0;32:0;70:0;73:0;76:0;69:0">,&amp;#x20;file</typing>
+      <action id="EditorNextWord" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
