@@ -5,6 +5,7 @@
   </component>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="javax.security" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
