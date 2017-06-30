@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="java.util.logging" />
     <EXCLUDED_PACKAGE NAME="javax.security" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
   </component>
