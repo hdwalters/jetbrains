@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="debase (v0.2.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
