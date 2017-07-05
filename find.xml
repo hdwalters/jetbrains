@@ -26,9 +26,9 @@
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.pprop</mask>
-      <mask>*.java</mask>
       <mask>*document*.py</mask>
       <mask>*.py</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

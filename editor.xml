@@ -1,15 +1,18 @@
 <application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="\b(TODO|HDW)\b.*">
-      <option name="FOREGROUND" value="73bf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
-    </pattern>
-    <pattern icon="default" useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
+    <pattern case-sensitive="true" pattern="\b(TODO|HDW)\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
       <option name="FOREGROUND" value="ff8080" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff8080" />
