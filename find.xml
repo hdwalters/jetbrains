@@ -26,11 +26,15 @@
       <mask>*.rb</mask>
       <mask>ServiceIntegration*.java</mask>
       <mask>*.xml</mask>
-      <mask>pom.xml</mask>
       <mask>*.pprop</mask>
       <mask>*document*.py</mask>
       <mask>*.py</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
