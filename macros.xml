@@ -1,13 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="61:0;61:0;61:0;32:0">===&amp;#x20;</typing>
-      <shortuct text="CAPS_LOCK" />
-      <typing text-keycode="69:0;88:0;69:0;82:0;67:0;73:0;83:0;69:0">EXERCISE</typing>
-      <shortuct text="CAPS_LOCK" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;61:0;61:0;61:0">&amp;#x20;===</typing>
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorEnter" />
       <action id="FindNext" />
     </macro>
   </component>
