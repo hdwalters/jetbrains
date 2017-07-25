@@ -1,12 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRightWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="FindNext" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="65:0;78:0;89:0;83:1;84:0;82:0;73:0;78:0;71:0;57:1;48:1;44:0;32:0;65:0;78:0;89:0;83:1;84:0;82:0;73:0;78:0;71:0;57:1;48:1">anyString(),&amp;#x20;anyString()</typing>
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
