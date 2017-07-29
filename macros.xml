@@ -1,20 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <typing text-keycode="69:0;81:0;57:1">eq(</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <typing text-keycode="48:1">)</typing>
       <action id="EditorNextWord" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="81:1;85:0;69:0;82:0;89:0">Query</typing>
-      <action id="EditorRight" />
-      <action id="GotoNextError" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="77:0;79:0;67:0;75:0;57:1;65:1;77:0;79:0;69:0;66:0;65:0;81:1;85:0;69:0;82:0;73:0;69:0;82:0;46:0;67:0;76:0;65:0;83:0;83:0">mock(AmoebaQuerier.class</typing>
-      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
