@@ -16,11 +16,8 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\b(TODO|HDW)\b.*" />
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
-      <option name="FOREGROUND" value="ff8080" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="ff8080" />
-    </pattern>
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
