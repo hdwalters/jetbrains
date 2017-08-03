@@ -1,20 +1,18 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -28,9 +26,22 @@
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.pprop</mask>
-      <mask>*.java</mask>
       <mask>*document*.py</mask>
       <mask>*.py</mask>
+      <mask>t*.java</mask>
+      <mask>test*.java</mask>
+      <mask>test_*.java</mask>
+      <mask>*_</mask>
+      <mask>*_t</mask>
+      <mask>*_test</mask>
+      <mask>*_test.</mask>
+      <mask>*_test.j</mask>
+      <mask>*_test.jav</mask>
+      <mask>*_test.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
