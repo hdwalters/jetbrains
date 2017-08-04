@@ -1,31 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="83:1;69:1;78:1;68:1">SEND</typing>
-      <action id="EditorPreviousWord" />
       <action id="EditorDown" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="82:1;69:1;67:1;86:1">RECV</typing>
-      <action id="EditorLineStart" />
+      <action id="EditorRight" />
       <action id="EditorDown" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
