@@ -1,11 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <typing text-keycode="80:1;72:0;65:0;83:0;69:0;82:1;69:0">PhaseRe</typing>
+      <action id="EditorEscape" />
     </macro>
   </component>
 </application>
