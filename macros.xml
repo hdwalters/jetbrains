@@ -2,10 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
