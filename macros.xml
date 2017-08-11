@@ -1,31 +1,23 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="83:0;69:0;76:0;70:0;46:0;82:0;69:0;67:0;79:0;82:0;68:0;45:1;72:0;65:0;78:0;68:0;76:0;69:0;82:0;83:0;91:0">self.record_handlers[</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="93:0">]</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="32:0;61:0;32:0">&amp;#x20;=&amp;#x20;</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="83:1;69:1;78:1;68:1">SEND</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorDown" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="82:1;69:1;67:1;86:1">RECV</typing>
-      <action id="EditorLineStart" />
-      <action id="EditorDown" />
     </macro>
   </component>
 </application>
