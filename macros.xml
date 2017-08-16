@@ -1,11 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="ShowIntentionActions" />
-      <shortuct text="RIGHT" />
-      <shortuct text="UP" />
-      <shortuct text="ENTER" />
-      <action id="GotoNextError" />
+      <action id="EditorLeft" />
+      <action id="EditorDuplicate" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPaste" />
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
