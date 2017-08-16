@@ -5,11 +5,14 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="50:1;44:0;32:0;50:1">&quot;,&amp;#x20;&quot;</typing>
       <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="50:1;44:0;32:0;50:1">&quot;,&amp;#x20;&quot;</typing>
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorEnter" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="50:1;44:0;32:0;50:1">&quot;,&amp;#x20;&quot;</typing>
     </macro>
   </component>
 </application>
