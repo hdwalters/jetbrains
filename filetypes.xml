@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="jsontable" type="PLAIN_TEXT" />
       <mapping pattern="table" type="Python" />
     </extensionMap>
   </component>
