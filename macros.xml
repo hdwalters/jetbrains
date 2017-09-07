@@ -1,17 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorBackSpace" />
+      <action id="EditorLeft" />
+      <typing text-keycode="70:0;85:0;78:0;67:0;84:0;79:0;79:0;76:0;83:0;46:0;80:0;65:0;82:0;84:0;73:0;65:0;76:0;57:1">functools.partial(</typing>
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="80:1;65:0;82:0;65:0;77:0;83:0;46:0;78:0;79:0;84:0;78:1;85:0;76:0;76:0;57:1">Params.notNull(</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
+      <typing text-keycode="44:0;32:0;69:0;82:0;82:0;79:0;82:0;83:0;61:0;222:0;80:0;65:0;82:0;84:0">,&amp;#x20;errors='part</typing>
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="82:0;69:0;80:0;76:0;65:0;67:0;69:0;222:0;48:1">replace')</typing>
+      <action id="FindNext" />
       <action id="FindNext" />
     </macro>
   </component>
