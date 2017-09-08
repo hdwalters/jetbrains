@@ -13,9 +13,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -26,7 +24,6 @@
       <mask>ServiceIntegration*.java</mask>
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
-      <mask>*.pprop</mask>
       <mask>*document*.py</mask>
       <mask>*.py</mask>
       <mask>t*.java</mask>
@@ -43,6 +40,10 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.pp</mask>
+      <mask>*.ppro</mask>
+      <mask>*.pprop</mask>
     </recentFileMasks>
   </component>
 </application>
