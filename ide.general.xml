@@ -10,5 +10,9 @@
     <entry key="ide.ssh.one.time.password" value="true" />
     <entry key="debugger.click.disable.breakpoints" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.require.transaction.for.model.changes" value="false" />
+    <entry key="search.everywhere.pattern.checking" value="false" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
   </component>
 </application>
