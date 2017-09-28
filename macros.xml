@@ -1,10 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="67:1;83:1;80:1;81:1;85:0;69:0;82:0;73:0;69:0;82:0;46:0">CSPQuerier.</typing>
-      <action id="EditorEscape" />
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="82:0">r</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="92:0;66:0">\b</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
