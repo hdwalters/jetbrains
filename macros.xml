@@ -1,9 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="ShowIntentionActions" />
-      <shortuct text="ENTER" />
-      <action id="GotoNextError" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorEnter" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
