@@ -1,8 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPaste" />
-      <action id="GotoNextError" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="82:0;69:0;81:0;85:0;69:0;83:0;84:0">request</typing>
+      <action id="MethodUp" />
     </macro>
   </component>
 </application>
