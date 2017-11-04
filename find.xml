@@ -11,6 +11,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -23,7 +24,6 @@
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*document*.py</mask>
-      <mask>*.py</mask>
       <mask>t*.java</mask>
       <mask>test*.java</mask>
       <mask>test_*.java</mask>
@@ -34,14 +34,15 @@
       <mask>*_test.j</mask>
       <mask>*_test.jav</mask>
       <mask>*_test.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
       <mask>*.ppro</mask>
       <mask>*.pprop</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
