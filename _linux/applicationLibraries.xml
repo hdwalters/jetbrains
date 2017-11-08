@@ -1,23 +1,21 @@
 <application>
   <component name="libraryTable">
-    <library name="debase (v0.2.1, ruby-2.3.3-p222) [gem]">
+    <library name="ast (v2.3.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta10, ruby-2.3.3-p222) [gem]">
       <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
-        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta8, ruby-2.3.3-p222) [gem]">
@@ -74,16 +72,40 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="rake (v12.0.0, ruby-2.3.3-p222) [gem]">
+    <library name="parallel (v1.12.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/bin" />
-        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/exe" />
-        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/bin" />
-        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/exe" />
-        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta4, ruby-2.3.3-p222) [gem]">
