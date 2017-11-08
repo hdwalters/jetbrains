@@ -1,11 +1,29 @@
 <application>
   <component name="libraryTable">
+    <library name="archive-tar-minitar (v0.6.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/archive-tar-minitar-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/archive-tar-minitar-0.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.3.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta10, ruby-2.3.3-p222) [gem]">
@@ -16,6 +34,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta11, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta8, ruby-2.3.3-p222) [gem]">
@@ -36,6 +64,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.11, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-ruby_core_source-0.9.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/debase-ruby_core_source-0.9.11/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.2, ruby-2.3.3-p222) [gem]">
@@ -72,6 +108,32 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="hashie (v3.5.6, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/hashie-3.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/hashie-3.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitar (v0.6.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/minitar-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/minitar-0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitar-cli (v0.6.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.0/lib" />
@@ -88,6 +150,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerbar (v1.0.18, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.3.3-p222) [gem]">
@@ -108,6 +180,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.2.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/bin" />
@@ -118,6 +214,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_core_source (v0.1.5, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby_core_source-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby_core_source-0.1.5/lib" />
       </SOURCES>
     </library>
   </component>
