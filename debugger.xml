@@ -81,6 +81,7 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views>
+      <option name="autoExpressions" value="false" />
       <option name="valueLookupDelay" value="250" />
     </data-views>
     <general>
