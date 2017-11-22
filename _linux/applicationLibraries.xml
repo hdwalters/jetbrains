@@ -26,5 +26,23 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vagrant (v1.9.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/bin" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/lib" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/keys" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/tasks" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/plugins" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/bin" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/lib" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/keys" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/tasks" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/plugins" />
+        <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/templates" />
+      </SOURCES>
+    </library>
   </component>
 </application>
