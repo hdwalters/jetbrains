@@ -66,5 +66,29 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.6.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta9, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </SOURCES>
+    </library>
   </component>
 </application>
