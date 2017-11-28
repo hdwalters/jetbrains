@@ -4,11 +4,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -32,14 +31,14 @@
       <mask>*_test.j</mask>
       <mask>*_test.jav</mask>
       <mask>*_test.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
       <mask>*.ppro</mask>
       <mask>*.pprop</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
