@@ -1,9 +1,6 @@
-<code_scheme name="My Scheme (Lynx)">
+<code_scheme name="My Scheme (K&amp;R)">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FIELD_NAME_PREFIX" value="m" />
-  <Python>
-    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
-  </Python>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
