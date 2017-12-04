@@ -11,10 +11,8 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.rb</mask>
       <mask>ServiceIntegration*.java</mask>
@@ -31,18 +29,20 @@
       <mask>*_test.j</mask>
       <mask>*_test.jav</mask>
       <mask>*_test.java</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
       <mask>*.ppro</mask>
       <mask>*.pprop</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
