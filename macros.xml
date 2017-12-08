@@ -1,5 +1,10 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;" />
+    <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
+      <action id="MethodDown" />
+    </macro>
   </component>
 </application>
