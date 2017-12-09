@@ -1,13 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRight" />
       <action id="EditorBackSpace" />
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="71:0;69:0;84:0;67:1;72:0;73:0;76:0;68:0;57:1;50:1">getChild(&quot;</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="50:1;48:1;46:0">&quot;).</typing>
+      <action id="EditorEscape" />
+      <action id="EditorLineStart" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
