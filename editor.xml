@@ -16,12 +16,12 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern useCustomColors="true" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODO.*">
       <option name="FOREGROUND" value="73bf" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;HACK)(\W|$)(.*)">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK.*">
       <option name="FOREGROUND" value="ff0080" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff0080" />
