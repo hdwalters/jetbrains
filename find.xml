@@ -4,14 +4,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.pprop" />
     <recentFileMasks>
       <mask>ServiceIntegration*.java</mask>
       <mask>*.xml</mask>
@@ -27,22 +23,22 @@
       <mask>*_test.j</mask>
       <mask>*_test.jav</mask>
       <mask>*_test.java</mask>
-      <mask>*.p</mask>
-      <mask>*.pp</mask>
       <mask>*.ppro</mask>
-      <mask>*.pprop</mask>
       <mask>*.k</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>po</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pp</mask>
+      <mask>*.pprop</mask>
     </recentFileMasks>
   </component>
 </application>
