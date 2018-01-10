@@ -11,8 +11,8 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.rb</mask>
       <mask>ServiceIntegration*.java</mask>
       <mask>*.xml</mask>
       <mask>*document*.py</mask>
@@ -34,14 +34,15 @@
       <mask>*.k</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>p</mask>
       <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
