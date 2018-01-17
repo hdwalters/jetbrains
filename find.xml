@@ -11,9 +11,8 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.pprop" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*document*.py</mask>
       <mask>t*.java</mask>
       <mask>test*.java</mask>
@@ -35,14 +34,15 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*.p</mask>
       <mask>*.pp</mask>
-      <mask>*.pprop</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*py</mask>
       <mask>*.py</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.prop</mask>
+      <mask>*.pprop</mask>
     </recentFileMasks>
   </component>
 </application>
