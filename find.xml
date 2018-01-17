@@ -39,9 +39,9 @@
       <mask>*py</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
+      <mask>*.j</mask>
       <mask>*.prop</mask>
       <mask>*.pprop</mask>
-      <mask>*.j</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
