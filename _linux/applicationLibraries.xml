@@ -4,6 +4,7 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/archive-tar-minitar-0.6.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/archive-tar-minitar-0.6.1/lib" />
       </SOURCES>
@@ -12,6 +13,7 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.3.0/lib" />
       </SOURCES>
@@ -21,6 +23,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.1/lib" />
@@ -31,6 +34,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
@@ -41,6 +45,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/debase-0.2.2.beta11/lib" />
@@ -51,6 +56,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/lib" />
@@ -61,6 +67,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
@@ -70,6 +77,7 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/debase-ruby_core_source-0.9.11/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/debase-ruby_core_source-0.9.11/lib" />
       </SOURCES>
@@ -78,6 +86,7 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-ruby_core_source-0.9.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-ruby_core_source-0.9.2/lib" />
       </SOURCES>
@@ -106,12 +115,14 @@
         <root url="jar:///usr/share/groovy/lib/asm3-util.jar!/" />
         <root url="jar:///usr/share/groovy/lib/ant.jar!/" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="hashie (v3.5.6, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/hashie-3.5.6/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/hashie-3.5.6/lib" />
       </SOURCES>
@@ -120,6 +131,7 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitar-0.6.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitar-0.6.1/lib" />
       </SOURCES>
@@ -129,6 +141,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/minitar-cli-0.6.1/lib" />
@@ -138,6 +151,7 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.0/lib" />
       </SOURCES>
@@ -147,6 +161,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
@@ -157,6 +172,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/powerbar-1.0.18/lib" />
@@ -166,6 +182,7 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
@@ -175,6 +192,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-2.2.2/lib" />
@@ -186,6 +204,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/exe" />
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.2.1/exe" />
@@ -198,6 +217,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/ruby-debug-ide-0.6.0/ext" />
@@ -210,6 +230,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/ext" />
@@ -220,9 +241,44 @@
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/ruby_core_source-0.1.5/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/ruby_core_source-0.1.5/lib" />
       </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file:///usr/share/java/scala-compiler-2.11.jar" />
+          <root url="file:///usr/share/java/scala-reflect.jar" />
+          <root url="file:///usr/share/java/scala-reflect-2.11.jar" />
+          <root url="file:///usr/share/java/scala-compiler.jar" />
+          <root url="file:///usr/share/java/scala-reflect-2.11.8.jar" />
+          <root url="file:///usr/share/java/scala-compiler-2.11.8.jar" />
+          <root url="file:///usr/share/java/scala-library-2.11.8.jar" />
+          <root url="file:///usr/share/java/scala-library-2.11.jar" />
+          <root url="file:///usr/share/java/scala-library.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar:///usr/share/java/scala-actors-2.11.8.jar!/" />
+        <root url="jar:///usr/share/java/scala-actors-2.11.jar!/" />
+        <root url="jar:///usr/share/java/scala-reflect.jar!/" />
+        <root url="jar:///usr/share/java/scala-parser-combinators_2.11-1.0.3.jar!/" />
+        <root url="jar:///usr/share/java/scala-reflect-2.11.jar!/" />
+        <root url="jar:///usr/share/java/scala-xml_2.11.jar!/" />
+        <root url="jar:///usr/share/java/scala-actors.jar!/" />
+        <root url="jar:///usr/share/java/scala-xml_2.11-1.0.3.jar!/" />
+        <root url="jar:///usr/share/java/scala-reflect-2.11.8.jar!/" />
+        <root url="jar:///usr/share/java/scala-parser-combinators_2.11.jar!/" />
+        <root url="jar:///usr/share/java/scala-library-2.11.8.jar!/" />
+        <root url="jar:///usr/share/java/scala-library-2.11.jar!/" />
+        <root url="jar:///usr/share/java/scala-library.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.11.8/" />
+      </JAVADOC>
+      <SOURCES />
     </library>
     <library name="vagrant (v1.9.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -233,6 +289,7 @@
         <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/plugins" />
         <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/templates" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/bin" />
         <root url="file:///usr/share/rubygems-integration/all/gems/vagrant-1.9.1/lib" />
