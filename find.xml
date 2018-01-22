@@ -13,6 +13,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*document*.py</mask>
@@ -31,11 +32,7 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>po</mask>
-      <mask>p</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
       <mask>*.pprop</mask>
@@ -44,6 +41,10 @@
       <mask>*py</mask>
       <mask>*.py</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
