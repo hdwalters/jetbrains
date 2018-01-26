@@ -11,7 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*document*.py</mask>
       <mask>t*.java</mask>
@@ -33,7 +33,6 @@
       <mask>*.pp</mask>
       <mask>*.pprop</mask>
       <mask>*py</mask>
-      <mask>*.py</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -43,6 +42,7 @@
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
