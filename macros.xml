@@ -1,10 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEndWithSelection" />
-      <typing text-keycode="74:1;83:0;79:0;78:0;73:1;71:0;78:0;79:0;82:0;69:0">JsonIgnore</typing>
-      <action id="EditorRight" />
-      <action id="FindNext" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
     </macro>
   </component>
 </application>
