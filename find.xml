@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="Project Production Files" />
+    <option name="defaultScopeName" value="Project Production Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,8 +10,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*document*.py</mask>
       <mask>t*.java</mask>
@@ -35,7 +35,6 @@
       <mask>*py</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -43,6 +42,7 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
