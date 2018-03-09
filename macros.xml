@@ -1,17 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="69:0;77:0;80:0;84:0;89:0;83:1;69:0;84:0">emptySet</typing>
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="67:1;76:0">Cl</typing>
+      <action id="EditorLeft" />
+      <typing text-keycode="79:0">o</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="76:0;69:0;67:0;84:0;73:0;79:0;78:0;83:0;46:0">lections.</typing>
       <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="67:0;79:0;77:0;77:0;65:0;78:0;68:0;83:0">commands</typing>
+      <typing text-keycode="57:1;48:1">()</typing>
       <action id="FindNext" />
     </macro>
   </component>
