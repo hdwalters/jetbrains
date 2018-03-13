@@ -5,21 +5,12 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.pprop" />
     <recentFileMasks>
-      <mask>*document*.py</mask>
-      <mask>t*.java</mask>
-      <mask>test*.java</mask>
-      <mask>test_*.java</mask>
-      <mask>*_</mask>
-      <mask>*_t</mask>
-      <mask>*_test</mask>
       <mask>*_test.</mask>
       <mask>*_test.j</mask>
       <mask>*_test.jav</mask>
@@ -29,20 +20,27 @@
       <mask>*.ja</mask>
       <mask>po</mask>
       <mask>pom.x</mask>
-      <mask>*.p</mask>
       <mask>*.pp</mask>
-      <mask>*.pprop</mask>
       <mask>*py</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
       <mask>*.java</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pprop</mask>
     </recentFileMasks>
   </component>
 </application>
