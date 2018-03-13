@@ -5,11 +5,13 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*_test.</mask>
       <mask>*_test.j</mask>
@@ -22,14 +24,10 @@
       <mask>pom.x</mask>
       <mask>*.pp</mask>
       <mask>*py</mask>
-      <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>p</mask>
       <mask>pom.</mask>
       <mask>*.py</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
@@ -41,6 +39,10 @@
       <mask>*.pprop</mask>
       <mask>pom</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
