@@ -1,10 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="78:0;69:0;87:0;32:0;89:1;69:0;65:0;82:0;57:1">new&amp;#x20;Year(</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="83:0;65:0;70:0;69:0;71:1;69:0;84:0;78:1;65:0;77:0;69:0;57:1">safeGetName(</typing>
       <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorNextWord" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
