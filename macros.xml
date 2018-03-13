@@ -1,14 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorRight" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorJoinLines" />
-      <action id="MethodDown" />
+      <typing text-keycode="78:0;69:0;87:0;32:0;89:1;69:0;65:0;82:0;57:1">new&amp;#x20;Year(</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
