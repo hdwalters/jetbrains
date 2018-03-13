@@ -5,6 +5,8 @@
       <action id="EditorRightWithSelection" />
       <action id="EditorRightWithSelection" />
       <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
       <typing text-keycode="69:0">e</typing>
       <action id="FindNext" />
     </macro>
