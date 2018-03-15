@@ -11,10 +11,8 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*document*.py</mask>
-      <mask>t*.java</mask>
       <mask>test*.java</mask>
       <mask>test_*.java</mask>
       <mask>*_</mask>
@@ -31,18 +29,20 @@
       <mask>pom.x</mask>
       <mask>*py</mask>
       <mask>*.jav</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
       <mask>*.pprop</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>java,</mask>
+      <mask>java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
