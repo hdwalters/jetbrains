@@ -2,9 +2,17 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
-      <typing text-keycode="84:1;69:0;83:0;84:0">Test</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorToggleCase" />
+      <action id="EditorRight" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="65:1;80:1;73:1;70:1;73:0;69:0;76:0;68:0;46:0">APIField.</typing>
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
