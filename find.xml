@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.pprop" />
     <recentFileMasks>
       <mask>test*.java</mask>
       <mask>test_*.java</mask>
@@ -30,7 +30,6 @@
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
-      <mask>*.pprop</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -41,6 +40,7 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.pprop</mask>
     </recentFileMasks>
   </component>
 </application>
