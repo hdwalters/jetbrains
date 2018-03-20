@@ -4,12 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pprop" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>test*.java</mask>
       <mask>test_*.java</mask>
@@ -39,8 +37,8 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>*.pprop</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
