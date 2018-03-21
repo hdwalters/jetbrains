@@ -1,13 +1,34 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="73:0;70:0;32:0">if&amp;#x20;</typing>
+      <action id="EditorPaste" />
       <action id="EditorEnter" />
-      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;78:1;79:0;84:0;78:1;85:0;76:0;76:0;57:1;83:0;69:0;76:0;69:0;67:0;84:0;79:0;82:0;48:1;59:0">assertNotNull(selector);</typing>
-      <action id="EditorRight" />
-      <action id="EditorDown" />
-      <action id="GotoNextError" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
