@@ -1,21 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="65:1;67:0;67:0;69:0;80:0;84:0;83:0;86:1;65:0;76:0;85:0;69:0">AcceptsValue</typing>
-      <action id="EditorUp" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="46:0;83:0;69:0;84:0;69:1;78:0;72:0;65:0;78:0;67:0;69:0;82:0;57:1;48:1;59:0">.setEnhancer();</typing>
+      <action id="EditorDuplicate" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
       <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorRight" />
-      <action id="MethodDown" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="83:0;69:0;84:0;86:1;65:0;76:0;73:0;68:0;65:0;84:0;79:0;82:0">setValidator</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
