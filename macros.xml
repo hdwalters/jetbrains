@@ -1,9 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorDuplicate" />
       <action id="EditorRight" />
-      <action id="$Paste" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="70:1;65:0;82:0">Far</typing>
+      <action id="EditorEscape" />
+      <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
   </component>
