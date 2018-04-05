@@ -1,9 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRight" />
       <action id="EditorLeftWithSelection" />
-      <typing text-keycode="82:1;69:1;83:1;84:1">REST</typing>
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="73:0;78:0;84:0;69:0;71:0;69:0;82:0">integer</typing>
+      <action id="EditorRight" />
+      <action id="FindNext" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
