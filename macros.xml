@@ -3,12 +3,17 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
+      <action id="GotoDeclaration" />
       <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="65:1;78:0;68:0;32:0">And&amp;#x20;</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="84:1;79:0;80:0;79:1;70:0;66:1;79:0;79:0;75:0;65:1;87:0;65:0;82:0;69:0">TopOfBookAware</typing>
+      <action id="EditorEscape" />
+      <action id="MethodDown" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
