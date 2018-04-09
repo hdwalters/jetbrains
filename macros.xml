@@ -4,11 +4,7 @@
       <action id="EditorLineStart" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="44:0;32:0;84:0;79:0;80:0;66:0;79:0;79:0;75:0">,&amp;#x20;topbook</typing>
-      <action id="EditorEscape" />
+      <typing text-keycode="84:0;73:0;77:0;69:0;44:0;32:0">time,&amp;#x20;</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
