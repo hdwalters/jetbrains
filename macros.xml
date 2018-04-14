@@ -1,20 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="69:0;88:0;80:0;69:0;67:0;84:0;69:0;68:0;73:1;68:1;83:0">expectedIDs</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <action id="EditorEnter" />
     </macro>
   </component>
 </application>
