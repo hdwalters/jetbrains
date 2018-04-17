@@ -1,10 +1,36 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <typing text-keycode="67:0;79:0;78:0;86:0;69:0;82:0;84:0;80:1;65:0;82:0;84:0;73:0;65:0;76:0;79:1;82:0;68:0;69:0;82:0">convertPartialOrder</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="79:0;82:0;68:0;69:0;82:0;77:1;65:0;78:0;65:0;71:0;69:0;82:0;44:0;32:0">orderManager,&amp;#x20;</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPaste" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
