@@ -1,20 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="RenameElement" />
-      <typing text-keycode="66:0;73:0;68:0;79:1;82:0;68:0;69:0;82:0;73:1;68:1;83:0">bidOrderIDs</typing>
-      <action id="NextTemplateVariable" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorLineStartWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="FindNext" />
-      <action id="RenameElement" />
-      <typing text-keycode="65:0;83:0;75:0;79:1;82:0;68:0;69:0;82:0;73:1;68:1;83:0">askOrderIDs</typing>
-      <action id="NextTemplateVariable" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorLineStartWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="FindNext" />
+      <action id="EditorLineStart" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorJoinLines" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
