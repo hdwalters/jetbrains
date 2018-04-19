@@ -1,20 +1,28 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <typing text-keycode="71:0;69:0;84:0;79:1;82:0;68:0;69:0;82:0;73:1;68:1;83:0;57:1">getOrderIDs(</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="GotoNextError" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="IntroduceVariable" />
+      <typing text-keycode="66:0;73:0;68:0;79:1;82:0;68:0;69:0;82:0;73:1;68:1;83:0">bidOrderIDs</typing>
+      <action id="NextTemplateVariable" />
+      <action id="FindNext" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="IntroduceVariable" />
+      <typing text-keycode="65:0;83:0;75:0;79:1;82:0;68:0;69:0;82:0;73:1;68:1;83:0">askOrderIDs</typing>
+      <action id="NextTemplateVariable" />
+      <action id="EditorUp" />
+      <action id="MoveStatementUp" />
+      <action id="FindNext" />
+      <action id="FindNext" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
