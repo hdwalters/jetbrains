@@ -20,7 +20,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.pprop</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
