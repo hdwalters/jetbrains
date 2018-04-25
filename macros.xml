@@ -2,13 +2,10 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <typing text-keycode="84:1;82:0;69:0;69:0">Tree</typing>
-      <action id="EditorNextWord" />
+      <action id="RenameElement" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="NextTemplateVariable" />
       <action id="FindNext" />
     </macro>
   </component>
