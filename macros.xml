@@ -1,12 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLeft" />
-      <action id="RenameElement" />
+      <action id="EditorLineEnd" />
       <action id="EditorRight" />
-      <typing text-keycode="77:1;65:0;80:0">Map</typing>
-      <action id="NextTemplateVariable" />
-      <action id="FindNext" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorPaste" />
+      <action id="MethodDown" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
