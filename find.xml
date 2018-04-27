@@ -21,9 +21,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.pprop</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.pprop</mask>
+    <mask>Execution*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
