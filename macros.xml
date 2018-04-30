@@ -5,6 +5,7 @@
       <action id="EditorLeft" />
       <action id="EditorEnter" />
       <action id="FindNext" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
