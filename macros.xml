@@ -5,8 +5,6 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorEnter" />
-      <action id="QuickImplementations" />
-      <shortuct text="ESCAPE" />
     </macro>
   </component>
 </application>
