@@ -1,7 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
+      <action id="EditorRight" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorLeftWithSelection" />
       <action id="EditorBackSpace" />
       <action id="FindNext" />
     </macro>
