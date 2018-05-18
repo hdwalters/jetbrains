@@ -43,7 +43,7 @@
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="false" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
