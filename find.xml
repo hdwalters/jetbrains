@@ -5,13 +5,13 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.prop" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,9 +21,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.pprop</mask>
-    <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.prop</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
