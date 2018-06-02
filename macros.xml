@@ -2,13 +2,32 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorUp" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="80:1;82:0;73:0;78:0;67:0;73:0;80:0;65:0;76:0;72:1;69:0;76:0;80:0;69:0;82:0;32:0;80:0;82:0;73:0;78:0;67:0;73:0;80:0;65:0;76:0;72:1;69:0;76:0;80:0;69:0;82:0;32:0;61:0;32:0;80:0;69:0;82:0;77:0;73:0;83:0;83:0;73:0;79:0;78:0;72:1;69:0;76:0;80:0;69:0;82:0;46:0;71:0;69:0;84:0;80:1;82:0;73:0;78:0;67:0;73:0;80:0;65:0;76:0;72:1;69:0;76:0;80:0;69:0;82:0;57:1;85:0;83:0;69:0;82:0;78:0;65:0;77:0;69:0;48:1;59:0">PrincipalHelper&amp;#x20;principalHelper&amp;#x20;=&amp;#x20;permissionHelper.getPrincipalHelper(username);</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="80:0;82:0;73:0;78:0;67:0;73:0;80:0;65:0;76:0;72:1;69:0;76:0;80:0;69:0;82:0">principalHelper</typing>
+      <action id="EditorNextWord" />
       <action id="EditorRight" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorJoinLines" />
-      <action id="MethodDown" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
     </macro>
   </component>
 </application>
