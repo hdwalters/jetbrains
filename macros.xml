@@ -2,7 +2,7 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <typing text-keycode="45:0;65:1;76:1;73:1;65:1;83:1">-ALIAS</typing>
+      <typing text-keycode="83:0">s</typing>
       <action id="FindNext" />
     </macro>
   </component>
