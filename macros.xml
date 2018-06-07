@@ -2,7 +2,11 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <typing text-keycode="47:0;47:0;32:0;72:1;65:1;67:1;75:1;32:1">//&amp;#x20;HACK&amp;#x20;</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="80:0;85:0;66:0;76:0;73:0;67:0">public</typing>
+      <action id="EditorEscape" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
