@@ -1,8 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPaste" />
-      <action id="FindNext" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="92:1">|</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
