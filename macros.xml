@@ -1,12 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="92:1">|</typing>
+      <typing text-keycode="84:0;69:0;82:0;77:0;73:0;79:0;83:0;46:0">termios.</typing>
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
