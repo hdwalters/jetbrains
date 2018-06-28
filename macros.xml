@@ -1,21 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="78:0;69:0;87:0;32:0;84:1;87:1;83:1;85:0;66:0;74:0;69:0;67:0;84:0;57:1">new&amp;#x20;TWSubject(</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="48:1;50:0">)2</typing>
       <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <action id="EditorLineEnd" />
+      <action id="EditorRight" />
+      <action id="EditorUp" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
