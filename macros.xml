@@ -1,13 +1,25 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLeft" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
       <action id="EditorRightWithSelection" />
       <action id="EditorRightWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="83:1;85:0;66:0;83:0;67:0;82:0;73:0;80:0;84:0;73:0;79:0;78:0;82:1;69:0;83:0;80:0;79:0;78:0;83:0;69:0">SubscriptionResponse</typing>
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
