@@ -1,9 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="80:0;82:0;79:0;86:0;73:0;68:0;69:0;82:0;67:1;79:0;78:0;84:0;65:0;73:0;78:0;69:0;82:0;46:0;80:0;82:0;79:0;86:0;73:0;68:0;69:0;82:0;83:0;46:0;84:1;82:0;65:0;68:0;69:0;87:0;69:0;66:0;46:0;83:0;69:0;84:0;84:0;73:0;78:0;71:0;83:0;46:0;69:0;88:0;67:0;72:0;65:0;78:0;71:0;69:0;68:1;69:0;65:0;76:0;69:0;82:0;83:0;46:0">providerContainer.providers.Tradeweb.settings.exchangeDealers.</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="44:0;32:0;84:1;87:1;83:1;69:0;84:0;84:0;73:0;78:0;71:0;83:0;46:0;78:1;85:1;76:1;76:1">,&amp;#x20;TWSettings.NULL</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorRight" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
