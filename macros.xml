@@ -1,9 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="92:0;68:0;61:1">\d+</typing>
       <action id="EditorNextWord" />
+      <action id="Inline" />
+      <shortuct text="ENTER" />
     </macro>
   </component>
 </application>
