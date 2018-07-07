@@ -1,9 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="Inline" />
-      <shortuct text="ENTER" />
+      <action id="EditorLineStart" />
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorDown" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
