@@ -1,19 +1,22 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="56:0">8</typing>
-      <action id="EditorNextWord" />
+      <typing text-keycode="49:0;50:0;51:0;52:0;53:0;54:0">123456</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="54:0">6</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="51:0;48:0">30</typing>
+      <typing text-keycode="49:0;50:0;44:0;32:0;51:0;52:0;44:0;32:0;53:0;54:0">12,&amp;#x20;34,&amp;#x20;56</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
