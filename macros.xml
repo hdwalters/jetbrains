@@ -1,10 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorJoinLines" />
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorLeft" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="71:0;69:0;84:0;57:1">get(</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
