@@ -2,12 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorUnindentSelection" />
-      <action id="EditorRight" />
-      <action id="EditorNextWord" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorLineStart" />
     </macro>
   </component>
 </application>
