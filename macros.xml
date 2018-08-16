@@ -4,10 +4,12 @@
       <action id="EditorDown" />
       <action id="EditorRight" />
       <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorPaste" />
+      <action id="MoveStatementDown" />
+      <action id="MoveStatementDown" />
+      <action id="EditorUp" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="MethodDown" />
     </macro>
   </component>
