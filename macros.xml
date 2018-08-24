@@ -4,7 +4,7 @@
       <action id="EditorLineEndWithSelection" />
       <action id="EditorLeftWithSelection" />
       <typing text-keycode="76:1;79:1;71:1;73:1;78:1;45:1;67:1;79:1;78:1;84:1;69:1;88:1;84:1">LOGIN_CONTEXT</typing>
-      <action id="EditorRight" />
+      <action id="EditorNextWord" />
       <action id="FindNext" />
     </macro>
   </component>
