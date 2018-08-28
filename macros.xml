@@ -1,9 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="73:1;77:0;80:0;76:0;46:0">Impl.</typing>
-      <action id="EditorNextWord" />
-      <action id="GotoNextError" />
+      <action id="EditorLineEnd" />
+      <action id="EditorRight" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
