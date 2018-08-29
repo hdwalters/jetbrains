@@ -1,12 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
       <action id="EditorUp" />
-      <action id="EditorUp" />
-      <action id="EditorNextWord" />
       <typing text-keycode="65:1;77:0;79:0;69:0;66:0;65:0">Amoeba</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorRight" />
+      <action id="MethodDown" />
       <action id="GotoNextError" />
     </macro>
   </component>
