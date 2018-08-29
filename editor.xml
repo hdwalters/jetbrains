@@ -1,4 +1,8 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODO.*">
       <option name="FOREGROUND" value="73bf" />
