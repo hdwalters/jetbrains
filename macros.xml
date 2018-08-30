@@ -1,10 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="Inline" />
-      <shortuct text="ENTER" />
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorLeft" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
