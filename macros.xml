@@ -1,10 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
       <action id="EditorRight" />
-      <action id="EditorPaste" />
-      <action id="MethodDown" />
+      <typing text-keycode="46:0;48:0;48:0;48:0">.000</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
