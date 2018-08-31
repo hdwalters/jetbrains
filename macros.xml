@@ -1,11 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorEnter" />
-      <typing text-keycode="222:1;79:1;86:0;69:0;82:0;82:0;73:0;68:0;69:0">@Override</typing>
-      <action id="EditorRight" />
-      <action id="MethodDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
     </macro>
   </component>
 </application>
