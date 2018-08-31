@@ -1,0 +1,33 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="ExpressionTypeInfo" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+</keymap>
