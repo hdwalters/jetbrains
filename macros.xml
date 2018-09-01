@@ -1,7 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="80:1;65:1;82:1;65:1;77:1;69:1;84:1;69:1;82:1">PARAMETER</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLineEndWithSelection" />
+      <typing text-keycode="76:1;79:1;71:1;73:1;78:1;45:1;67:1;79:1;78:1;84:1;69:1;88:1;84:1;59:0">LOGIN_CONTEXT;</typing>
       <action id="FindNext" />
     </macro>
   </component>
