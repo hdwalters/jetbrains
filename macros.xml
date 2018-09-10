@@ -7,8 +7,9 @@
       <action id="EditorRight" />
       <action id="EditorRight" />
       <action id="EditorRight" />
-      <typing text-keycode="77:1;65:0;84:0;67:0;72:0;69:0;82:0">Matcher</typing>
-      <action id="MethodDown" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
