@@ -1,13 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;84:1;82:0;85:0;69:0">assertTrue</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorLineEndWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="46:0;72:0;65:0;83:0;69:1;82:0;82:0;79:0;82:0;83:0;57:1;48:1">.hasErrors()</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="70:1;79:0;82:0;69:1;78:0;85:0;77:0">ForEnum</typing>
       <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
