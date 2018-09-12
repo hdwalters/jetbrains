@@ -1,46 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEndWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="83:0;84:0;82:0;65:0;84:0;69:0;71:0;73:0;69:0;83:0;49:0">strategies1</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorDuplicate" />
-      <action id="EditorNextWord" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="50:0">2</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorUp" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="GotoNextError" />
+      <action id="MoveStatementDown" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
