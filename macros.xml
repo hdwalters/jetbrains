@@ -6,13 +6,12 @@
       <action id="EditorToggleCase" />
       <action id="EditorToggleCase" />
       <action id="EditorRight" />
-      <action id="EditorRightWithSelection" />
+      <action id="EditorRight" />
       <action id="EditorBackSpace" />
       <action id="EditorPreviousWord" />
       <action id="EditorBackSpace" />
-      <typing text-keycode="65:1;76:0;71:0;79:0;71:1;76:0;79:0;66:0;65:0;76:0;82:1;69:0;71:0;73:0;79:0;78:0;46:0">AlgoGlobalRegion.</typing>
-      <action id="EditorPreviousWord" />
-      <action id="GotoNextError" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
