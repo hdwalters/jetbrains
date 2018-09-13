@@ -1,16 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorToggleCase" />
-      <action id="EditorToggleCase" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <action id="EditorJoinLines" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
