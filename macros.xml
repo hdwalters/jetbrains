@@ -1,13 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLeft" />
-      <action id="EditorUp" />
       <action id="EditorNextWord" />
-      <action id="EditorLineEndWithSelection" />
-      <typing text-keycode="84:1;72:0;69:0;78:0;32:0;84:0;72:0;69:0;32:0;84:0;82:0;65:0;68:0;73:0;78:0;71:0;32:0;83:0;84:0;82:0;65:0;84:0;69:0;71:0;89:0;32:0;73:0;83:0;32:0;67:0;82:0;69:0;65:0;84:0;69:0;68:0;46:0">Then&amp;#x20;the&amp;#x20;trading&amp;#x20;strategy&amp;#x20;is&amp;#x20;created.</typing>
-      <action id="EditorRight" />
-      <action id="EditorDown" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="54:0">6</typing>
       <action id="FindNext" />
     </macro>
   </component>
