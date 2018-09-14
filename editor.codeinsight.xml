@@ -8,7 +8,8 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="org.mvel2.util" />
+    <EXCLUDED_PACKAGE NAME="org.antlr" />
+    <EXCLUDED_PACKAGE NAME="org.mvel2" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
