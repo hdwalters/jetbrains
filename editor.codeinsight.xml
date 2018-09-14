@@ -8,6 +8,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.gemstone.gemfire.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.antlr" />
