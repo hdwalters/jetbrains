@@ -1,16 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorToggleCase" />
-      <action id="EditorToggleCase" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <typing text-keycode="82:1;69:1;81:1;85:1;73:1;82:1;69:1;68:1">REQUIRED</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
