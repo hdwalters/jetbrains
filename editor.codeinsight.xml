@@ -8,6 +8,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="org.antlr" />
     <EXCLUDED_PACKAGE NAME="org.mvel2" />
   </component>
