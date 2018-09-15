@@ -1,8 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPaste" />
-      <action id="GotoNextError" />
+      <action id="MoveStatementUp" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
