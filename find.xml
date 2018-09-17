@@ -21,9 +21,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.prop</mask>
-    <mask>pom.xml</mask>
     <mask>*.pprop</mask>
     <mask>*.py</mask>
+    <mask>pom.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
