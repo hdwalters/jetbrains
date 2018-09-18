@@ -2,16 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <typing text-keycode="50:1;32:1;61:1;32:1;50:1">&quot;&amp;#x20;+&amp;#x20;&quot;</typing>
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="32:1;61:1;32:1;84:1;69:1;83:1;84:1;45:1;85:1;85:1;73:1;68:1">&amp;#x20;+&amp;#x20;TEST_UUID</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="84:1;68:1">TD</typing>
     </macro>
   </component>
 </application>
