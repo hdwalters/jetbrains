@@ -1,22 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;77:1;65:0;84:0;67:0;72:0;69:0;82:0;57:1">createMatcher(</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="47:0;47:0;32:1;72:1;65:1;67:1;75:1;32:1">//&amp;#x20;HACK&amp;#x20;</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
       <action id="GotoNextError" />
     </macro>
   </component>
