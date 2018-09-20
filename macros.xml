@@ -2,15 +2,8 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLeft" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorBackSpace" />
+      <typing text-keycode="83:1;84:0;82:0;65:0;84:0;69:0;71:0;89:0">Strategy</typing>
+      <action id="EditorNextWord" />
       <action id="FindNext" />
     </macro>
   </component>
