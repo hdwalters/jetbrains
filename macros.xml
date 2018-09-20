@@ -1,9 +1,18 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <typing text-keycode="47:0">/</typing>
+      <action id="EditorLineEnd" />
       <action id="EditorRight" />
-      <action id="EditorRight" />
-      <typing text-keycode="70:0;73:0;76:0;69:0;78:0;65:0;77:0;69:0;44:0;32:0">filename,&amp;#x20;</typing>
+      <action id="EditorDownWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="FindNext" />
     </macro>
   </component>
