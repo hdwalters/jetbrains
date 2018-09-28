@@ -1,8 +1,20 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="65:0;78:0;89:0;79:1;66:0;74:0;69:0;67:0;84:0;57:1;48:1">anyObject()</typing>
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorJoinLines" />
+      <action id="EditorRight" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
