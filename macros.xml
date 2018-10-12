@@ -1,8 +1,36 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorRight" />
-      <typing text-keycode="50:0">2</typing>
+      <action id="EditorPaste" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
       <action id="FindNext" />
     </macro>
   </component>
