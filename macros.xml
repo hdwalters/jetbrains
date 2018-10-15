@@ -3,17 +3,7 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <action id="EditorEnter" />
     </macro>
   </component>
 </application>
