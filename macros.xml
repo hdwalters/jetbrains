@@ -1,21 +1,18 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="80:0;69:0;69:0;75:0">peek</typing>
+      <action id="EditorDown" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="67:0;79:0;77:0;80:0;76:0;69:0;84:0;69:0;68:0;32:0">completed&amp;#x20;</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="80:0;69:0;69:0;75:0">peek</typing>
-      <action id="EditorEscape" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="MethodDown" />
     </macro>
   </component>
