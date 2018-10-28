@@ -2,11 +2,13 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="MethodUp" />
-      <action id="EditorUp" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
       <action id="EditorPaste" />
       <action id="MethodDown" />
-      <action id="MethodDown" />
-      <action id="FindNext" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
