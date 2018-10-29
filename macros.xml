@@ -1,13 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="IntroduceVariable" />
-      <action id="NextTemplateVariable" />
+      <action id="MethodUp" />
+      <action id="EditorUp" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="MethodDown" />
+      <action id="MethodDown" />
       <action id="FindNext" />
     </macro>
   </component>
