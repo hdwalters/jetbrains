@@ -2,8 +2,8 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="FindNext" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
     </macro>
   </component>
 </application>
