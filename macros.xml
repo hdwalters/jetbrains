@@ -1,18 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="83:1;84:0;82:0;73:0;78:0;71:0;85:1;84:0;73:0;76:0;83:0;46:0;67:0;65:0;80:0;84:0">StringUtils.capt</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="73:0">i</typing>
-      <action id="EditorRight" />
-      <typing text-keycode="65:0;76:0;73:0;83:0;69:0;57:1">alise(</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <action id="OptimizeImports" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
