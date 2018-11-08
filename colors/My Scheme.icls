@@ -1,8 +1,8 @@
 <scheme name="My Scheme" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
   <attributes>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value>
