@@ -4,9 +4,7 @@
       <action id="EditorNextWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="82:0;69:0;83:0;80:0;79:0;78:0;83:0;69:0;72:1;65:0;78:0;68:0;76:0;69:0;82:0;46:0;83:0;69:0;84:0;78:1;65:0;71:0;73:0;79:0;83:0;78:1;79:0;84:0;73:0;70:0;73:0;69:0;82:0">responseHandler.setNagiosNotifier</typing>
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
