@@ -1,40 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <typing text-keycode="65:0;77:0;79:0;69:0;66:0;65:0;67:1;76:0;73:0;69:0;78:0;84:0;46:0">amoebaClient.</typing>
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <typing text-keycode="82:1;69:0;71:0;73:0;79:0;78:0">Region</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="46:0;67:0;76:0;65:0;83:0;83:0">.class</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <typing text-keycode="70:1;73:0;78:0;65:0;76:0">Final</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <typing text-keycode="57:1">(</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
