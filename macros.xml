@@ -1,11 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLeft" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="FindNext" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="65:0;80:0;80:0;76:0;73:0;67:0;65:0;84:0;73:0;79:0;78:0;67:1;79:0;78:0;84:0;69:0;88:0;84:0;46:0;71:0;69:0;84:0;66:1;69:0;65:0;78:0;57:1">applicationContext.getBean(</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="46:0;67:0;76:0;65:0;83:0;83:0">.class</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
