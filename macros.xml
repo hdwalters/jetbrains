@@ -2,7 +2,29 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
-      <typing text-keycode="88:1">X</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPaste" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="71:0">g</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="82:0;69:0;84:0;85:0;82:0;78:0;32:0;78:0;85:0;76:0;76:0">return&amp;#x20;null</typing>
       <action id="MethodDown" />
     </macro>
   </component>
