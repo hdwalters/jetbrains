@@ -1,15 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorLineEndWithSelection" />
-      <action id="InsertLiveTemplate" />
-      <action id="EditorEscape" />
-      <action id="EditorJoinLines" />
-      <action id="MethodDown" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="46:0;67:0;76:0;65:0;83:0;83:0">.class</typing>
     </macro>
   </component>
 </application>
