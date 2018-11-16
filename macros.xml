@@ -1,14 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
       <action id="EditorNextWord" />
-      <action id="EditorDown" />
-      <action id="EditorLineEndWithSelection" />
-      <action id="IntroduceVariable" />
-      <typing text-keycode="66:0;69:0;65:0;78:0">bean</typing>
-      <action id="NextTemplateVariable" />
-      <action id="MethodDown" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
     </macro>
   </component>
 </application>
