@@ -1,13 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
+      <action id="EditorUp" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="84:1;69:0;83:0;84:0">Test</typing>
+      <action id="EditorRight" />
       <action id="EditorNextWord" />
-      <action id="EditorDown" />
-      <action id="EditorLineEndWithSelection" />
-      <action id="IntroduceVariable" />
-      <typing text-keycode="66:0;69:0;65:0;78:0">bean</typing>
-      <action id="NextTemplateVariable" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="84:0;69:0;83:0;84:0">test</typing>
       <action id="MethodDown" />
     </macro>
   </component>
