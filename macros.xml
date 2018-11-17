@@ -1,24 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="80:0;82:0;79:0;80:0;69:0;82:0;84:0;73:0;69:0;83:0">properties</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorEnter" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorLineStart" />
+      <typing text-keycode="49:0;48:0;48:0;48:0;48:0;76:1">10000L</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="79:1;82:0;68:0;69:0;82:0;80:1;82:0;79:0;80:0;69:0;82:0;84:0;73:0;69:0;83:0;32:0;80:0;82:0;79:0;80:0;69:0;82:0;84:0;73:0;69:0;83:0">OrderProperties&amp;#x20;properties</typing>
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorDown" />
       <action id="GotoNextError" />
     </macro>
   </component>
