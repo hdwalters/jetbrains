@@ -4,7 +4,10 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorEnter" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
