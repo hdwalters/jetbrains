@@ -10,7 +10,6 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="com.gemstone.gemfire.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
-    <EXCLUDED_PACKAGE NAME="java.util.logging" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
