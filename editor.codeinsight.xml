@@ -18,6 +18,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.log4j" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging" />
     <EXCLUDED_PACKAGE NAME="org.mvel2" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
