@@ -1,11 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;76:1;79:0;71:0;73:0;78:0;67:1;79:0;78:0;84:0;69:0;88:0;84:0">createLoginContext</typing>
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
     </macro>
   </component>
 </application>
