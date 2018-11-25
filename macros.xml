@@ -1,17 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="222:1;86:1;65:0;76:0;85:0;69:0;57:1;50:1;52:1;91:1">@Value(&quot;${</typing>
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorEnter" />
-      <action id="EditorNextWord" />
-      <action id="EditorEnter" />
-      <action id="EditorLineEnd" />
       <action id="EditorLeft" />
-      <action id="EditorEnter" />
+      <action id="EditorLineEndWithSelection" />
+      <typing text-keycode="93:1;50:1;48:1">}&quot;)</typing>
+      <action id="EditorRight" />
       <action id="MethodDown" />
     </macro>
   </component>
