@@ -1,13 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorToggleCase" />
+      <action id="EditorLineEndWithSelection" />
+      <typing text-keycode="67:0;79:0;78:0;84:0;69:0;88:0;84:0;32:0;84:1;72:0;69:0;32:0;76:0;79:0;71:0;73:0;78:0;32:0;65:0;78:0;68:0;32:0;66:0;82:0;65:0;78:0;67:0;72:0;32:1;73:1;68:1;46:0">context&amp;#x20;The&amp;#x20;login&amp;#x20;and&amp;#x20;branch&amp;#x20;ID.</typing>
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
