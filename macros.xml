@@ -1,7 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="68:0;65:0;86:0;73:0;68:0">david</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="Inline" />
+      <shortuct text="ENTER" />
+      <action id="EditorEscape" />
+      <shortuct text="ESCAPE" />
+      <action id="MethodDown" />
       <action id="FindNext" />
     </macro>
   </component>
