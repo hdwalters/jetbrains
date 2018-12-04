@@ -4,6 +4,7 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorNextWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
