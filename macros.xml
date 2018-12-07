@@ -7,7 +7,7 @@
       <action id="EditorDownWithSelection" />
       <action id="EditorRightWithSelection" />
       <action id="EditorJoinLines" />
-      <action id="MethodDown" />
+      <action id="MethodUp" />
     </macro>
   </component>
 </application>
