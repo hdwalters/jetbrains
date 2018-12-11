@@ -2,12 +2,31 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWord" />
       <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="71:0;69:0;84:0;67:1;79:0;78:0;78:0;69:0;67:0;84:0;73:0;79:0;78:0">getConnection</typing>
+      <action id="EditorUp" />
       <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="44:0;32:0;78:0;85:0;76:0;76:0">,&amp;#x20;null</typing>
+      <action id="EditorEnter" />
+      <action id="EditorPaste" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="72:0;65:0;78:0;68:0;76:0;69:0;83:1;89:0;78:0;67:0;72:0;82:0;79:0;78:0;79:0;85:0;83:0;82:1;69:0;83:0;80:0;79:0;78:0;83:0;69:0">handleSynchronousResponse</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorRight" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
