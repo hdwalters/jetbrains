@@ -1,11 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorEnter" />
-      <typing text-keycode="222:1;79:1;86:0;69:0;82:0;82:0;73:0;68:0;69:0">@Override</typing>
-      <action id="EditorRight" />
-      <action id="MethodDown" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="71:0;69:0;84:0;70:1;82:0;65:0;67:0;84:0;73:0;79:0;78:0;65:0;76:0;79:1;82:0;68:0;69:0;82:0;83:0">getFractionalOrders</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
