@@ -26,5 +26,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
