@@ -1,15 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
       <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorLineEndWithSelection" />
+      <action id="EditorRight" />
+      <action id="EditorUpWithSelection" />
       <action id="EditorPaste" />
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
