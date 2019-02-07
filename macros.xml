@@ -3,13 +3,14 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorLeft" />
       <action id="EditorDuplicate" />
-      <action id="FindNext" />
+      <action id="EditorNextWord" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="69:1;68:1;84:1">EDT</typing>
       <action id="EditorRight" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <typing text-keycode="69:1;84:1;68:1">ETD</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
