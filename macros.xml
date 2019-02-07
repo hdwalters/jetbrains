@@ -1,18 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorLineStart" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDuplicate" />
-      <action id="Replace" />
-      <typing text-keycode="77:1;73:1;76:1;76:1;73:1;83:1">MILLIS</typing>
-      <shortuct text="TAB" />
-      <typing text-keycode="83:1;69:1;67:1;79:1;78:1;68:1;83:1">SECONDS</typing>
-      <shortuct text="ESCAPE" />
-      <action id="EditorRight" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
       <action id="FindNext" />
     </macro>
   </component>
