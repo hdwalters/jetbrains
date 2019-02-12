@@ -1,13 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorNextWordWithSelection" />
       <action id="EditorLineStart" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorJoinLines" />
-      <action id="MethodDown" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="70:1;85:0;84:0;85:0;82:0;69:0">Future</typing>
+      <action id="EditorPreviousWord" />
+      <shortuct text="alt RIGHT" />
     </macro>
   </component>
 </application>
