@@ -1,8 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorNextWord" />
+      <action id="EditorLineStart" />
       <action id="EditorDownWithSelection" />
       <action id="EditorDownWithSelection" />
       <action id="EditorDownWithSelection" />
