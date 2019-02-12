@@ -1,18 +1,20 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorEnter" />
+      <typing text-keycode="65:0;83:0;89:0;78:0;67:0;72:0;82:0;79:0;78:0;79:0;85:0;83:0;32:0">asynchronous&amp;#x20;</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="65:0;78:0;32:0">an&amp;#x20;</typing>
+      <action id="MethodDown" />
       <action id="MethodDown" />
     </macro>
   </component>
