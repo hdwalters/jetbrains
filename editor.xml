@@ -5,4 +5,12 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\bTODO\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
+      <option name="FOREGROUND" value="ff0080" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff80c1" />
+    </pattern>
+  </component>
 </application>
