@@ -1,15 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="44:0;32:0;50:1">,&amp;#x20;&quot;</typing>
-      <shortuct text="CAPS_LOCK" />
-      <shortuct text="CAPS_LOCK" />
-      <shortuct text="CAPS_LOCK" />
-      <typing text-keycode="73:0;78:0;68:0;73:0;86:0;73:0;68:0;85:0;65:0;76:0">INDIVIDUAL</typing>
-      <shortuct text="CAPS_LOCK" />
+      <action id="EditorRight" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="44:0;32:0;78:0;85:0;76:0;76:0">,&amp;#x20;null</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
