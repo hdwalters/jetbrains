@@ -5,6 +5,7 @@
       <action id="EditorDownWithSelection" />
       <action id="EditorBackSpace" />
       <action id="EditorDown" />
+      <action id="EditorScrollDown" />
     </macro>
   </component>
 </application>
