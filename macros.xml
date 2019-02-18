@@ -1,11 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="73:0;70:0;32:0;222:0;65:0;82:0;71:0;67:0;79:0;77:0;80:0;76:0;69:0;84:0;69:0;222:0;32:0;73:0;78:0;32:0;83:0;89:0;83:0;46:0;77:0;68:0">if&amp;#x20;'argcomplete'&amp;#x20;in&amp;#x20;sys.md</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="79:0">o</typing>
-      <action id="EditorRight" />
-      <typing text-keycode="85:0;76:0;69:0;83:0;59:1">ules:</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorBackSpace" />
       <action id="EditorEnter" />
     </macro>
   </component>
