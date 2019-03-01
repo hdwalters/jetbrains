@@ -1,14 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="67:0;79:0;78:0;84:0;69:0;88:0;84:0">context</typing>
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorToggleCase" />
+      <action id="EditorRight" />
+      <typing text-keycode="45:1;67:1;79:1;78:1;84:1;69:1;88:1;84:1">_CONTEXT</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
