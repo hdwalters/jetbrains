@@ -102,5 +102,13 @@
     <general>
       <scroll-to-center>true</scroll-to-center>
     </general>
+    <debuggers>
+      <debugger id="Rust">
+        <configuration>
+          <option name="gdbRenderers" value="Rust compiler's renderers" />
+          <option name="lldbRenderers" value="Rust compiler's renderers" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
