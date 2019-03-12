@@ -1,18 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
       <action id="EditorBackSpace" />
       <action id="MethodDown" />
     </macro>
