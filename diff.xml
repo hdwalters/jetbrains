@@ -21,5 +21,10 @@
         </PlaceSettings>
       </entry>
     </option>
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="CONTEXT_RANGE" value="2" />
+      </SharedSettings>
+    </option>
   </component>
 </application>
