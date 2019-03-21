@@ -1,8 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorEnter" />
-      <action id="FindNext" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="76:1">L</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
