@@ -4,8 +4,8 @@
       <action id="EditorLineStart" />
       <action id="EditorDownWithSelection" />
       <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
       <action id="EditorRightWithSelection" />
+      <action id="EditorDownWithSelection" />
       <action id="EditorJoinLines" />
       <action id="MethodDown" />
     </macro>
