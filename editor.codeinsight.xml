@@ -4,8 +4,10 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.tradingscreen.toolbelt.netty" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="javax.ws" />
+    <EXCLUDED_PACKAGE NAME="org.jboss" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
