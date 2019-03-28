@@ -1,17 +1,39 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
+      <action id="EditorRight" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="84:1;89:0;80:0;69:0">Type</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-      <action id="EditorDownWithSelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="GotoNextError" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorToggleCase" />
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
