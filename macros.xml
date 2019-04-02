@@ -1,10 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorJoinLines" />
-      <action id="EditorJoinLines" />
-      <action id="EditorJoinLines" />
-      <action id="MethodDown" />
+      <typing text-keycode="84:0;82:0;85:0;69:0">true</typing>
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
