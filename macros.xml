@@ -4,6 +4,7 @@
       <action id="EditorJoinLines" />
       <action id="EditorJoinLines" />
       <action id="EditorJoinLines" />
+      <shortuct text="alt WINDOWS" />
       <action id="MethodDown" />
     </macro>
   </component>
