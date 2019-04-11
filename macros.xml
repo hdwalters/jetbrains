@@ -4,9 +4,6 @@
       <action id="EditorJoinLines" />
       <action id="EditorJoinLines" />
       <action id="EditorJoinLines" />
-      <action id="EditorUp" />
-      <action id="EditorNextWord" />
-      <action id="EditorPaste" />
       <action id="MethodDown" />
     </macro>
   </component>
