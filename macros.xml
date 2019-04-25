@@ -1,11 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorJoinLines" />
-      <action id="EditorJoinLines" />
-      <action id="EditorJoinLines" />
-      <shortuct text="alt WINDOWS" />
-      <action id="MethodDown" />
+      <typing text-keycode="83:1;84:0;82:0;73:0;78:0;71:0">String</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
