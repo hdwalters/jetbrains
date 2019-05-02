@@ -1,12 +1,4 @@
 <application>
-  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
-  <component name="DiffSettings">
-    <option name="SHARED_SETTINGS">
-      <SharedSettings>
-        <option name="GO_TO_NEXT_FILE_ON_NEXT_DIFFERENCE" value="false" />
-      </SharedSettings>
-    </option>
-  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
@@ -19,11 +11,6 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
-    </option>
-    <option name="SHARED_SETTINGS">
-      <SharedSettings>
-        <option name="CONTEXT_RANGE" value="2" />
-      </SharedSettings>
     </option>
   </component>
 </application>
