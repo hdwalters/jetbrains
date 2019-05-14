@@ -5,6 +5,12 @@
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
     <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="CONTINUATION_INDENT_IN_PARAMETER_LISTS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_SUPERTYPE_LISTS" value="false" />
+    <option name="CONTINUATION_INDENT_IN_IF_CONDITIONS" value="false" />
+  </JetCodeStyleSettings>
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
@@ -61,8 +67,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <indentOptions>
