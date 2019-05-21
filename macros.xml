@@ -1,8 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="222:0;44:0;32:0;222:0">',&amp;#x20;'</typing>
+      <typing text-keycode="70:1;73:0;76:0;69:0;32:0">File&amp;#x20;</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="84:1;65:0;71:0;32:0">Tag&amp;#x20;</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorNextWord" />
     </macro>
   </component>
