@@ -5,21 +5,14 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWord" />
-      <typing text-keycode="91:0">[</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
       <action id="EditorRight" />
-      <typing text-keycode="93:0">]</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="91:0">[</typing>
+      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <typing text-keycode="93:0">]</typing>
-      <action id="EditorLineEnd" />
       <action id="EditorNextWord" />
+      <action id="EditorLeft" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
       <action id="EditorLineEnd" />
       <action id="EditorNextWord" />
     </macro>
