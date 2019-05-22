@@ -1,24 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorBackSpace" />
+      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="71:0;69:0;84:0;45:1">get_</typing>
-      <action id="MethodDown" />
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="83:0;69:0;84:0;45:1">set_</typing>
-      <action id="MethodDown" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
