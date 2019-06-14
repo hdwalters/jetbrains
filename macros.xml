@@ -1,17 +1,20 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="EditorLeft" />
       <action id="EditorBackSpace" />
-      <typing text-keycode="91:0;222:0">['</typing>
-      <action id="EditorLineEnd" />
-      <typing text-keycode="222:0;93:0">']</typing>
-      <action id="EditorRight" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="46:0">.</typing>
+      <action id="EditorPaste" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
