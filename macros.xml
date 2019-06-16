@@ -1,18 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="68:1;73:0;82:0;69:0;67:0;84:0;73:0;79:0;78:0;57:1">Direction(</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorNextWord" />
-      <action id="EditorLeft" />
-      <typing text-keycode="44:0;32:0;48:0;46:0;48:0;70:0;48:1">,&amp;#x20;0.0f)</typing>
-      <action id="GotoNextError" />
-      <typing text-keycode="68:1;73:0;82:0;69:0;67:0;84:0;73:0;79:0;78:0;57:1">Direction(</typing>
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorJoinLines" />
       <action id="EditorLineEnd" />
-      <typing text-keycode="44:0;32:0;48:0;46:0;48:0;70:0;48:1">,&amp;#x20;0.0f)</typing>
-      <action id="GotoNextError" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
