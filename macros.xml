@@ -1,10 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorJoinLines" />
+      <action id="EditorDuplicate" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="67:0;76:0">cl</typing>
+      <action id="EditorLeft" />
+      <typing text-keycode="79:0">o</typing>
       <action id="EditorLineEnd" />
       <action id="EditorNextWord" />
     </macro>
