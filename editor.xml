@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="TODO" />
     <pattern icon="important" case-sensitive="true" pattern="HACK" />
