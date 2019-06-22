@@ -6,4 +6,16 @@
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODO\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
+      <option name="FOREGROUND" value="ff0088" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ff80c1" />
+    </pattern>
+  </component>
 </application>
