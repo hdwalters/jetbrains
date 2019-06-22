@@ -2,8 +2,8 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:0;48:0;48:0;48:0;48:0;48:0;48:0;48:0">00000000</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="61:1">+</typing>
       <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
