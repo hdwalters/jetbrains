@@ -2,13 +2,8 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="86:1;69:0;78:0;85:0;69:0">Venue</typing>
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="86:0;69:0;78:0;85:0;69:0;32:0">venue&amp;#x20;</typing>
       <action id="FindNext" />
     </macro>
   </component>
