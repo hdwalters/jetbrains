@@ -1,11 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;83:0;84:0;65:0;84:0;73:0;67:0">&amp;#x20;static</typing>
+      <typing text-keycode="73:1;78:0;83:0;84:0;82:0;85:0;77:0;69:0;78:0;84:0;66:1;85:0;73:0;76:0;68:0;69:0;82:0">InstrumentBuilder</typing>
       <action id="EditorLineEnd" />
-      <action id="MethodDown" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;73:1;78:0;83:0;84:0;82:0;85:0;77:0;69:0;78:0;84:0;66:1;85:0;73:0;76:0;68:0;69:0;82:0">createInstrumentBuilder</typing>
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
