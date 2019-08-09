@@ -1,24 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorLeftWithSelection" />
-      <action id="EditorPaste" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorBackSpace" />
-      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorRight" />
+      <action id="EditorEnter" />
       <action id="FindNext" />
     </macro>
   </component>
