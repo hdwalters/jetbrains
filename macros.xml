@@ -1,13 +1,21 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="67:1;79:0;76:0;79:0;82:0">Color</typing>
       <action id="EditorNextWord" />
-      <typing text-keycode="72:1;65:1;67:1;32:1">HAC&amp;#x20;</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="75:1">K</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorDown" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="46:0;67:0;79:0;78:0;86:0;69:0;82:0;84:0;84:1;79:0;73:1;78:0;84:0;57:1;48:1">.convertToInt()</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
