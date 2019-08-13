@@ -1,8 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="68:0;65:0;83:0;72:0;69:0;68:0;80:1;65:0;73:0;78:0;84:0">dashedPaint</typing>
-      <action id="FindNext" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorJoinLines" />
+      <action id="EditorRight" />
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
