@@ -5,10 +5,9 @@
       <action id="EditorDownWithSelection" />
       <action id="EditorDownWithSelection" />
       <action id="EditorDownWithSelection" />
-      <action id="EditorLineEndWithSelection" />
+      <action id="EditorDownWithSelection" />
       <action id="EditorJoinLines" />
       <action id="EditorRight" />
-      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
