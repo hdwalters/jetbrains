@@ -2,14 +2,11 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorDeleteToWordStart" />
       <action id="EditorBackSpace" />
-      <typing text-keycode="82:0;69:0;81:0;85:0;73:0;82:0;69:0;68:0;46:0;65:0;68:0;68:0;57:1">required.add(</typing>
-      <action id="EditorLineEnd" />
-      <typing text-keycode="48:1">)</typing>
+      <action id="EditorBackSpace" />
       <action id="EditorRight" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
