@@ -9,4 +9,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
 </keymap>
