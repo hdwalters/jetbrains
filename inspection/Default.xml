@@ -1,29 +1,10 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
-  <inspection_tool class="BashSimpleArrayUse" enabled="false" level="INFO" enabled_by_default="false" />
-  <inspection_tool class="BashSimpleVarUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="BashUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="Duplicates" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="Rubocop" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RubyCaseWithoutElseBlockInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RubyClassVariableUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RubyEmptyRescueBlockInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RubyLiteralArrayInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="RubyResolve" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="warnImplicitResults" value="false" />
-  </inspection_tool>
-  <inspection_tool class="RubyUnnecessaryReturnStatement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="processCode" value="true" />
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
-  </inspection_tool>
-  <inspection_tool class="WeakerAccess" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
-    <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
-    <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
   </inspection_tool>
 </profile>

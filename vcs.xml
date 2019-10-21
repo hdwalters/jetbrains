@@ -1,18 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://git.dev.tradingscreen.com:7990" />
-          <option name="userName" value="hwalters" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="huw.walters@gmail.com" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="SHOW_TAG_NAMES" value="true" />
