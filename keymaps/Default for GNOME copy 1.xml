@@ -12,4 +12,10 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
 </keymap>
