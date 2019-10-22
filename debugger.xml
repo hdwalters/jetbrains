@@ -1,6 +1,8 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
   </component>
 </application>
