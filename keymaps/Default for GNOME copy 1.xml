@@ -9,7 +9,20 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="ExpressionTypeInfo" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
 </keymap>

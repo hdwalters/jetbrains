@@ -2,7 +2,4 @@
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
-  <codeStyleSettings language="kotlin">
-    <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
-  </codeStyleSettings>
 </code_scheme>

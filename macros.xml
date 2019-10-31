@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="84:0;72:0;69:0;78:0;32:0">then&amp;#x20;</typing>
+      <action id="FindNext" />
+    </macro>
+  </component>
+</application>
