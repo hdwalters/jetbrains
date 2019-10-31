@@ -1,7 +1,23 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="83:0;84:0;79:0;82:0;69:0;73:1;78:0;68:0;69:0;88:0;57:1;73:0;78:0;68:0;69:0;88:0;48:1">storeIndex(index)</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <shortuct text="CAPS_LOCK" />
+      <shortuct text="CAPS_LOCK" />
+      <typing text-keycode="50:1;50:1">&quot;&quot;</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
       <action id="FindNext" />
     </macro>
   </component>
