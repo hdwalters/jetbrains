@@ -1,8 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="84:0;72:0;69:0;78:0;32:0">then&amp;#x20;</typing>
-      <action id="FindNext" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorLineStart" />
+      <action id="GotoPreviousError" />
+      <action id="EditorPaste" />
+      <action id="MethodDown" />
+      <action id="GotoNextError" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
