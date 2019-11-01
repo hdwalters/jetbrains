@@ -1,13 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorLineEnd" />
-      <action id="EditorBackSpace" />
-      <action id="GotoNextError" />
+      <action id="EditorJoinLines" />
+      <shortuct text="F8" />
     </macro>
   </component>
 </application>
