@@ -1,7 +1,6 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="80:1;65:0;73:0;82:0;57:1">Pair(</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
@@ -9,9 +8,12 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorEnter" />
+      <typing text-keycode="91:1">{</typing>
+      <action id="EditorEnter" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
