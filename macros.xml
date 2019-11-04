@@ -1,17 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;79:0;82:0;68:0;69:0;82:0;32:0;45:0;46:1">&amp;#x20;order&amp;#x20;-&gt;</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="79:0;82:0;68:0;69:0;82:0;44:0;32:0">order,&amp;#x20;</typing>
+      <typing text-keycode="79:1;82:0;78:1;85:0;76:0;76:0">OrNull</typing>
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <typing text-keycode="47:1">?</typing>
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
