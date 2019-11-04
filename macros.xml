@@ -1,9 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorPaste" />
-      <action id="MethodDown" />
+      <typing text-keycode="50:1;79:1;82:1;68:1;69:1;82:1;73:1;68:1">&quot;ORDERID</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
