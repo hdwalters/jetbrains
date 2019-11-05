@@ -2,8 +2,11 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorEnter" />
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="86:1;65:0;76:0;73:0;68:0">Valid</typing>
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
