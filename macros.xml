@@ -1,9 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorPaste" />
+      <typing text-keycode="78:1;69:1;87:1;44:0;32:0">NEW,&amp;#x20;</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
