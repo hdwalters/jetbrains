@@ -1,11 +1,21 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorDown" />
       <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <typing text-keycode="86:1;65:0;76:0;73:0;68:0">Valid</typing>
+      <action id="EditorPaste" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="84:1;79:1;68:1;79:1">TODO</typing>
       <action id="MethodDown" />
     </macro>
   </component>
