@@ -1,9 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <typing text-keycode="59:1;32:1;79:1;82:0;68:0;69:0;82:0;47:1">:&amp;#x20;Order?</typing>
-      <action id="MethodDown" />
+      <action id="EditorDown" />
+      <action id="EditorRight" />
+      <action id="EditorDown" />
+      <action id="EditorLeft" />
+      <action id="EditorEnter" />
+      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;78:1;79:0;84:0;78:1;85:0;76:0;76:0;57:1;79:0;82:0;68:0;69:0;82:0;48:1">assertNotNull(order)</typing>
+      <action id="EditorRight" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
