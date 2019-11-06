@@ -3,13 +3,28 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
       <action id="EditorPreviousWord" />
-      <action id="EditorLeft" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="65:0;78:0;32:0;69:0;88:0;69:0;67:0;85:0;84:0;73:0;79:0;78:0;32:0;82:0;69:0;80:0;79:0;82:0;84:0;32:0;73:0;83:0">an&amp;#x20;execution&amp;#x20;report&amp;#x20;is</typing>
-      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="IntroduceVariable" />
+      <action id="NextTemplateVariable" />
       <action id="FindNext" />
     </macro>
   </component>
