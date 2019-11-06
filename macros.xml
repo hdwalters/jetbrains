@@ -1,7 +1,22 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="67:1;82:0;69:0;65:0;84:0;69:0;32:0;65:0;78:0;68:0;32:0;83:0;69:0;78:0;68:0">Create&amp;#x20;and&amp;#x20;send</typing>
+      <action id="EditorRight" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;69:1;81:0;85:0;65:0;76:0;83:0;57:1;48:0;44:0;32:0;83:0;69:0;78:0;84:0;77:1;69:0;83:0;83:0;65:0;69:0">assertEquals(0,&amp;#x20;sentMessae</typing>
+      <action id="EditorLeft" />
+      <typing text-keycode="71:0">g</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="83:0;46:0;83:0;73:0;90:0;69:0">s.size</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="FindNext" />
     </macro>
   </component>
