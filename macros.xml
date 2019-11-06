@@ -1,14 +1,40 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
       <action id="EditorRight" />
-      <action id="EditorDown" />
-      <action id="EditorLeft" />
-      <action id="EditorEnter" />
-      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;78:1;79:0;84:0;78:1;85:0;76:0;76:0;57:1;79:0;82:0;68:0;69:0;82:0;48:1">assertNotNull(order)</typing>
       <action id="EditorRight" />
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="70:1;73:0;69:0;76:0;68:0;83:0">Fields</typing>
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
