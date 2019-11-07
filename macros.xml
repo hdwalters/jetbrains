@@ -1,6 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="77:1;69:0;83:0;83:0;65:0;71:0;69:0">Message</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
@@ -8,9 +11,12 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="ShowIntentionActions" />
-      <shortuct text="DOWN" />
-      <shortuct text="ENTER" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="57:1;84:0;72:0;73:0;83:0;32:0;65:0;83:0;32:0;70:1;73:0;69:0;76:0;68:0;77:1;65:0;80:0;48:1;46:0;71:0;69:0;84:0;70:1;73:0;69:0;76:0;68:0;79:1;82:0;78:1;85:0;76:0;76:0;57:1;70:0;73:0;69:0;76:0;68:0;48:1;32:1;47:1;59:1;32:0;84:0;72:0;73:0;83:0;46:0;72:0;69:0;65:0;68:0;69:0;82:0;46:0;71:0;69:0;84:0;70:1;73:0;69:0;76:0;68:0;79:1;82:0;78:1;85:0;76:0;76:0;57:1;70:0;73:0;69:0;76:0;68:0;48:1">(this&amp;#x20;as&amp;#x20;FieldMap).getFieldOrNull(field)&amp;#x20;?:&amp;#x20;this.header.getFieldOrNull(field)</typing>
       <action id="MethodDown" />
     </macro>
   </component>
