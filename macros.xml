@@ -3,7 +3,7 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
       <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="45:1">_</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
