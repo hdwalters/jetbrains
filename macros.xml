@@ -6,17 +6,13 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorDeleteToWordStart" />
       <action id="EditorDeleteToWordStart" />
       <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="78:0;85:0;76:0;76:0">null</typing>
       <action id="EditorLineEnd" />
-      <action id="FindNext" />
     </macro>
   </component>
 </application>
