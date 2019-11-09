@@ -1,8 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="45:1">_</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
