@@ -15,6 +15,7 @@
       <action id="EditorDeleteToWordStart" />
       <action id="EditorDeleteToWordStart" />
       <action id="EditorDeleteToWordStart" />
+      <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
   </component>
