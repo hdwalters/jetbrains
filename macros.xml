@@ -1,16 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="79:0;82:0;68:0;69:0;82:0;73:1;68:1;59:1;32:1;83:1;84:0;82:0;73:0;78:0;71:0;44:0;32:0">orderID:&amp;#x20;String,&amp;#x20;</typing>
-      <action id="EditorUp" />
-      <action id="EditorUp" />
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="222:1;80:0;65:0;82:0;65:0;77:0;32:0;79:0;82:0;68:0;69:0;82:0;73:1;68:1;32:1;84:1;72:0;69:0;32:0;78:0;69:0;87:0;32:0;79:0;82:0;68:0;69:0;82:0;32:0;73:1;68:1;46:0">@param&amp;#x20;orderID&amp;#x20;The&amp;#x20;new&amp;#x20;order&amp;#x20;ID.</typing>
-      <action id="MethodDown" />
+      <typing text-keycode="44:0;32:0;78:0;85:0;76:0;76:0;44:0;32:0;78:0;85:0;76:0;76:0">,&amp;#x20;null,&amp;#x20;null</typing>
+      <action id="EditorRight" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
