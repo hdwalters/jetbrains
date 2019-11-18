@@ -2,14 +2,21 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorLineStartWithSelection" />
-      <typing text-keycode="77:1;73:0;83:0;83:0;73:0;78:0;71:0;70:1;73:0;69:0;76:0;68:0">MissingField</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="46:0;70:1;73:1;69:1;76:1;68:1">.FIELD</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
