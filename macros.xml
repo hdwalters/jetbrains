@@ -1,17 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="84:0;69:0;83:0;84:0">test</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="72:1;65:0;83:0;69:1;88:0;80:0;69:0;67:0;84:0;69:0;68:0;70:1;73:0;69:0;76:0;68:0;83:0">HasExpectedFields</typing>
-      <action id="MethodDown" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
