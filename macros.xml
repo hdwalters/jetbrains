@@ -1,10 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="50:1;84:1;79:1;68:1;79:1;50:1;44:0">&quot;TODO&quot;,</typing>
-      <action id="EditorEnter" />
+      <action id="EditorLineStart" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorJoinLines" />
       <action id="MethodDown" />
-      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
