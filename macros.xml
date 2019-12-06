@@ -1,9 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
+      <typing text-keycode="82:0;69:0;67:0;79:0;82:0;68:0;91:0;222:0">record['</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorRight" />
+      <typing text-keycode="222:0;93:0;32:0;61:0;32:0">']&amp;#x20;=&amp;#x20;</typing>
+      <action id="EditorPaste" />
       <action id="EditorNextWord" />
-      <action id="GotoNextError" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
     </macro>
   </component>
 </application>
