@@ -1,13 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="59:1;80:0;65:0;82:0;65:0;77:0;32:0">:param&amp;#x20;</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="59:1">:</typing>
-      <action id="EditorEnter" />
+      <action id="EditorBackSpace" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
