@@ -1,15 +1,28 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
       <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="70:0;73:0;69:0;76:0;68:0;83:0;91:0;222:0;222:0;93:0;32:0;61:0;32:0">fields['']&amp;#x20;=&amp;#x20;</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorPaste" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorLineEndWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="EditorLineEnd" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorPreviousWord" />
