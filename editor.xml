@@ -15,6 +15,16 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="SqlFoldingSettings">
+    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO\b.*" />
     <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
