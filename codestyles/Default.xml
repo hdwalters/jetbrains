@@ -2,4 +2,10 @@
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
