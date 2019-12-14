@@ -1,10 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <typing text-keycode="76:0;69:0;78:0;57:1;83:0;69:0;76:0;70:0;46:0;83:0;84:0;65:0;67:0;75:0">len(self.stack</typing>
       <action id="EditorRight" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
