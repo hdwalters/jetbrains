@@ -3,13 +3,6 @@
     <option name="collapseAndroidStrings" value="false" />
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseConstructorGenericParameters" value="false" />
-    <option name="collapseI18nMessages" value="false" />
-    <option name="collapseLambdas" value="false" />
-    <option name="collapseOneLineMethods" value="false" />
-    <option name="collapseSuppressWarnings" value="false" />
-  </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseConditionallyNotCompiled" value="false" />
     <option name="collapseNewLineBeforeLBrace" value="false" />
