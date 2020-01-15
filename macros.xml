@@ -1,9 +1,20 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <typing text-keycode="50:0">2</typing>
-      <action id="FindNext" />
+      <typing text-keycode="78:0;69:0;87:0;32:0;67:1;79:0;77:0;83:1;84:0;79:0;67:0;75:0;83:1;85:0;66:0;74:0;69:0;67:0;84:0;57:1">new&amp;#x20;ComStockSubject(</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="50:1;44:0;32:0;50:1">&quot;,&amp;#x20;&quot;</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
