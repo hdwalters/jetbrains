@@ -2,8 +2,8 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorBackSpace" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
       <action id="MethodDown" />
     </macro>
   </component>
