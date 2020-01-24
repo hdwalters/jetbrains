@@ -7,6 +7,8 @@
       <action id="EditorDownWithSelection" />
       <action id="EditorRightWithSelection" />
       <action id="EditorJoinLines" />
+      <action id="EditorRight" />
+      <action id="EditorLeft" />
       <action id="MethodDown" />
     </macro>
   </component>
