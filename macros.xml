@@ -1,14 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
       <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="82:0;69:0;84:0;85:0;82:0;78:0;32:0;70:0;65:0;76:0;83:0;69:0;59:0">return&amp;#x20;false;</typing>
-      <action id="EditorUp" />
-      <action id="EditorEnter" />
-      <typing text-keycode="47:0;47:0;32:1;84:1;79:1;68:1;79:1">//&amp;#x20;TODO</typing>
-      <action id="MethodDown" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
   </component>
