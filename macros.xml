@@ -4,10 +4,21 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="50:1;44:0;32:0;50:1">&quot;,&amp;#x20;&quot;</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorRight" />
+      <action id="EditorEnter" />
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorEnter" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
