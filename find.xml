@@ -20,9 +20,9 @@
     <mask>*.kt</mask>
     <mask>Status*.kt</mask>
     <mask>*.prop*</mask>
-    <mask>*.pprop</mask>
     <mask>pom.xml</mask>
     <mask>*.py</mask>
+    <mask>*.pprop</mask>
     <mask>*.java</mask>
   </component>
 </application>
