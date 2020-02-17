@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,10 +15,10 @@
     <mask>*.kt</mask>
     <mask>Status*.kt</mask>
     <mask>*.prop*</mask>
-    <mask>pom.xml</mask>
     <mask>*.py</mask>
     <mask>*.pprop</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
