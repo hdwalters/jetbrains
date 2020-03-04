@@ -1,9 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="83:0;69:0;82:0;86:0;73:0;67:0;69:0;44:0;32:0">service,&amp;#x20;</typing>
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
