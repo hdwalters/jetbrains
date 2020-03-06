@@ -1,49 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
+      <action id="EditorDownWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorBackSpace" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;83:1;89:0;77:0;66:0;79:0;76:0;82:1;65:0;78:0;71:0;69:0">createSymbolRange</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <action id="EditorDown" />
     </macro>
   </component>
 </application>
