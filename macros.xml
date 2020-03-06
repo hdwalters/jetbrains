@@ -1,8 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDownWithSelection" />
-      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;84:1;82:0;85:0;69:0">assertTrue</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
       <action id="EditorDown" />
     </macro>
   </component>
