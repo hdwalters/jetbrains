@@ -1,9 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
       <action id="EditorLeft" />
-      <action id="EditorEnter" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="85:0;70:0;70:0;73:0;78:0">uffin</typing>
       <action id="FindNext" />
     </macro>
   </component>
