@@ -5,7 +5,7 @@
       <action id="EditorRight" />
       <action id="EditorUpWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="FindNext" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
