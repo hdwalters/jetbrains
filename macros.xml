@@ -3,7 +3,16 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorEnter" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0">create</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="57:1">(</typing>
+      <action id="EditorLineEnd" />
     </macro>
   </component>
 </application>
