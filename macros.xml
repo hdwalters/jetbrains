@@ -2,8 +2,14 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
       <action id="EditorDeleteToWordStart" />
-      <action id="MethodDown" />
+      <typing text-keycode="68:0;84:0;79:0">dto</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
