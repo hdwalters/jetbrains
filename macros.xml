@@ -1,33 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="73:1;78:0;83:0;84:0;65:0;78:0;84:0;46:0;80:0;65:0;82:0;83:0;69:0">Instant.parse</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="80:0;82:0;73:0;78:0;84:0;57:1;222:0">print('</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="222:0;48:1">')</typing>
       <action id="EditorRight" />
-      <typing text-keycode="50:1">&quot;</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="45:0;48:0">-0</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="45:0">-</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="50:1">&quot;</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="84:1;48:0;48:0;59:1;48:0;48:0;59:1;48:0;48:0;90:1">T00:00:00Z</typing>
     </macro>
   </component>
 </application>
