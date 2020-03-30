@@ -1,19 +1,21 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
       <action id="EditorNextWord" />
-      <action id="EditorLineEndWithSelection" />
-      <typing text-keycode="32:0;61:0;32:0;78:1;79:0;78:0;69:0">&amp;#x20;=&amp;#x20;None</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorRight" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="84:0;83:0;45:1;69:0;88:0;67:0;72:0;65:0;78:0;71:0;69:0;83:0;46:0;65:0;68:0;68:0;57:1">ts_exchanges.add(</typing>
+      <action id="EditorLineStart" />
     </macro>
   </component>
 </application>
