@@ -1,21 +1,5 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorEnter" />
-      <typing text-keycode="84:0;83:0;45:1;69:0;88:0;67:0;72:0;65:0;78:0;71:0;69:0;83:0;46:0;65:0;68:0;68:0;57:1">ts_exchanges.add(</typing>
-      <action id="EditorLineStart" />
-    </macro>
+    <macro name="&lt;noname&gt;" />
   </component>
 </application>
