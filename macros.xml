@@ -1,12 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorLineEndWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="71:0;69:0;84:0;73:1;68:1;67:1;76:1;79:0;71:0;73:0;78:0;83:0;57:1;48:1;46:0;71:0;69:0;84:0">getIDCLogins().get</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
   </component>
