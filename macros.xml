@@ -2,11 +2,10 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
-      <typing text-keycode="32:0;84:0;72:0;82:0;79:0;87:0;83:0;32:0;69:1;88:0;67:0;69:0;80:0;84:0;73:0;79:0;78:0">&amp;#x20;throws&amp;#x20;Exception</typing>
       <action id="EditorRight" />
-      <action id="EditorDown" />
-      <action id="EditorPaste" />
-      <action id="MethodDown" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
