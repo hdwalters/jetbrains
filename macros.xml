@@ -3,10 +3,6 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
       <action id="EditorRight" />
       <action id="EditorRight" />
       <action id="EditorRight" />
