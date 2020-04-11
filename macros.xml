@@ -4,7 +4,11 @@
       <action id="EditorLineEnd" />
       <action id="EditorRight" />
       <action id="EditorUpWithSelection" />
-      <action id="EditorBackSpace" />
+      <action id="EditorCut" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorUp" />
+      <action id="EditorPaste" />
       <action id="FindNext" />
     </macro>
   </component>
