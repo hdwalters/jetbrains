@@ -1,5 +1,16 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;" />
+    <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;74:1;83:0;79:0;78:0;71:1;69:0;84:0;84:0;69:0;82:0;57:1;50:1;50:1;48:1">@JsonGetter(&quot;&quot;)</typing>
+      <action id="MethodDown" />
+      <action id="MethodDown" />
+      <action id="EditorUp" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;74:1;83:0;79:0;78:0;83:1;69:0;84:0;84:0;69:0;82:0;57:1;50:1;50:1;48:1">@JsonSetter(&quot;&quot;)</typing>
+      <action id="MethodDown" />
+      <action id="MethodDown" />
+    </macro>
   </component>
 </application>
