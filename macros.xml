@@ -6,16 +6,14 @@
       <action id="EditorNextWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
       <action id="EditorNextWordWithSelection" />
-      <action id="EditorCut" />
       <action id="EditorNextWordWithSelection" />
       <action id="EditorRightWithSelection" />
-      <typing text-keycode="61:0">=</typing>
+      <action id="EditorCut" />
       <action id="EditorNextWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
-      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
+      <action id="EditorRight" />
       <action id="EditorPaste" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
