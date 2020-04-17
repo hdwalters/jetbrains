@@ -2,9 +2,20 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
-      <action id="EditorPaste" />
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorNextWord" />
+      <action id="EditorLineEndWithSelection" />
+      <typing text-keycode="46:0;67:0;76:0;69:0;65:0;82:0;57:1;48:1;59:0">.clear();</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorDown" />
     </macro>
   </component>
 </application>
