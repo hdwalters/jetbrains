@@ -79,7 +79,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="250" />
+    </data-views>
     <general>
       <scroll-to-center>true</scroll-to-center>
     </general>

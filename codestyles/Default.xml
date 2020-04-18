@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <JavaCodeStyleSettings>
-    <option name="FIELD_NAME_PREFIX" value="m" />
-  </JavaCodeStyleSettings>
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
@@ -13,8 +10,8 @@
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="LAMBDA_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <indentOptions>
