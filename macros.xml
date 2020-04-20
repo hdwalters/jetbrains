@@ -1,15 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="73:0;83:0;65:1;70:0;84:0;69:0;82:0">isAfter</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorLeftWithSelection" />
       <typing text-keycode="49:1">!</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
@@ -18,13 +22,15 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="73:0;83:0;65:1;70:0;84:0;69:0;82:0">isAfter</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorLineEndWithSelection" />
       <action id="EditorLeftWithSelection" />
       <action id="EditorBackSpace" />
-      <action id="FindNext" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
