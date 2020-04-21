@@ -1,12 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorNextWord" />
+      <action id="EditorLineEndWithSelection" />
+      <typing text-keycode="59:1;32:1;74:0;69:0;83:0;84:0;46:0;70:0;78:0;57:1;48:1">:&amp;#x20;jest.fn()</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorEnter" />
-      <action id="FindNext" />
-      <action id="FindNext" />
     </macro>
   </component>
 </application>
