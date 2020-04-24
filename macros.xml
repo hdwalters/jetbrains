@@ -1,8 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="89:0;89:0;89:0;89:0">yyyy</typing>
-      <action id="FindNext" />
+      <typing text-keycode="80:0;82:0;69:0;70:0;73:0;88:0;72:1;69:0;76:0;80:0;69:0;82:0;44:0;32:0">prefixHelper,&amp;#x20;</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
