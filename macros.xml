@@ -6,7 +6,6 @@
       <action id="EditorUpWithSelection" />
       <action id="EditorBackSpace" />
       <action id="FindNext" />
-      <action id="FindNext" />
     </macro>
   </component>
 </application>
