@@ -1,13 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="80:0;82:0;69:0;73:0">prei</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="70:0">f</typing>
-      <action id="EditorRight" />
-      <typing text-keycode="88:0;72:1;69:0;76:0;80:0;69:0;82:0;46:0">xHelper.</typing>
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorRight" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
