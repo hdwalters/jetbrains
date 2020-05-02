@@ -1,32 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0">&amp;#x20;</typing>
-      <action id="EditorPaste" />
-      <typing text-keycode="32:0;73:0;78:0;32:0;82:0;69:0;67:0;79:0;82:0;68:0;32:0;65:0;78:0;68:0">&amp;#x20;in&amp;#x20;record&amp;#x20;and</typing>
+      <action id="EditorUp" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;79:1;86:0;69:0;82:0;82:0;73:0;68:0;69:0">@Override</typing>
       <action id="EditorRight" />
-      <typing text-keycode="73:0;78:0;84:0;57:1">int(</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorDown" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWord" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
