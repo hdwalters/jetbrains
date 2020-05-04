@@ -1,11 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorUp" />
-      <action id="EditorEnter" />
-      <typing text-keycode="222:1;79:1;86:0;69:0;82:0;82:0;73:0;68:0;69:0">@Override</typing>
-      <action id="EditorRight" />
-      <action id="MethodDown" />
+      <typing text-keycode="50:1;67:1;84:1;70:1;45:1;65:1;50:1;44:0;32:0">&quot;CTF_A&quot;,&amp;#x20;</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
