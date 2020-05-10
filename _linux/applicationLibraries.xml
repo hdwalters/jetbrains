@@ -1,0 +1,56 @@
+<application>
+  <component name="libraryTable">
+    <library name="Elixir 1.9.1">
+      <CLASSES>
+        <root url="file:///usr/lib/elixir/lib/elixir/ebin" />
+        <root url="file:///usr/lib/elixir/lib/logger/ebin" />
+        <root url="file:///usr/lib/elixir/lib/eex/ebin" />
+        <root url="file:///usr/lib/elixir/lib/mix/ebin" />
+        <root url="file:///usr/lib/elixir/lib/iex/ebin" />
+        <root url="file:///usr/lib/elixir/lib/ex_unit/ebin" />
+        <root url="file:///usr/lib/erlang/lib/mnesia-4.16.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/asn1-5.0.9/ebin" />
+        <root url="file:///usr/lib/erlang/lib/syntax_tools-2.2.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/tftp-1.0.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/tools-3.3/ebin" />
+        <root url="file:///usr/lib/erlang/lib/erts-10.6.4/ebin" />
+        <root url="file:///usr/lib/erlang/lib/public_key-1.7.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/ssl-9.5.3/ebin" />
+        <root url="file:///usr/lib/erlang/lib/inets-7.1.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/compiler-7.5.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/stdlib-3.11.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/crypto-4.6.4/ebin" />
+        <root url="file:///usr/lib/erlang/lib/runtime_tools-1.14/ebin" />
+        <root url="file:///usr/lib/erlang/lib/kernel-6.5.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/ftp-1.0.4/ebin" />
+        <root url="file:///usr/lib/erlang/lib/parsetools-2.1.8/ebin" />
+        <root url="file:///usr/lib/erlang/lib/sasl-3.4.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/hipe-3.19.2/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Erlang for Elixir 22">
+      <CLASSES>
+        <root url="file:///usr/lib/erlang/lib/mnesia-4.16.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/asn1-5.0.9/ebin" />
+        <root url="file:///usr/lib/erlang/lib/syntax_tools-2.2.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/tftp-1.0.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/tools-3.3/ebin" />
+        <root url="file:///usr/lib/erlang/lib/erts-10.6.4/ebin" />
+        <root url="file:///usr/lib/erlang/lib/public_key-1.7.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/ssl-9.5.3/ebin" />
+        <root url="file:///usr/lib/erlang/lib/inets-7.1.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/compiler-7.5.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/stdlib-3.11.2/ebin" />
+        <root url="file:///usr/lib/erlang/lib/crypto-4.6.4/ebin" />
+        <root url="file:///usr/lib/erlang/lib/runtime_tools-1.14/ebin" />
+        <root url="file:///usr/lib/erlang/lib/kernel-6.5.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/ftp-1.0.4/ebin" />
+        <root url="file:///usr/lib/erlang/lib/parsetools-2.1.8/ebin" />
+        <root url="file:///usr/lib/erlang/lib/sasl-3.4.1/ebin" />
+        <root url="file:///usr/lib/erlang/lib/hipe-3.19.2/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
