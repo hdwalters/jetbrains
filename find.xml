@@ -9,19 +9,19 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.kt</mask>
     <mask>Status*.kt</mask>
     <mask>*.prop*</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.pprop</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.exs</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
