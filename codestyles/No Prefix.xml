@@ -1,4 +1,7 @@
 <code_scheme name="No Prefix" version="173">
+  <Python>
+    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
+  </Python>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
