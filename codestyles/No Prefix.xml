@@ -1,7 +1,4 @@
-<code_scheme name="Default" version="173">
-  <JavaCodeStyleSettings>
-    <option name="FIELD_NAME_PREFIX" value="m" />
-  </JavaCodeStyleSettings>
+<code_scheme name="No Prefix" version="173">
   <Python>
     <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
@@ -9,6 +6,9 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
