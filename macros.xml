@@ -1,12 +1,27 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPaste" />
+      <typing text-keycode="32:0;61:0;32:0">&amp;#x20;=&amp;#x20;</typing>
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="78:0;85:0;77:0;80:0;89:0">numpy</typing>
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorToggleCase" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="71:0;69:0;84:0;45:1;70:0;73:0;71:0;85:0;82:0;65:0;84:0;69:0;83:0;57:1">get_figurates(</typing>
       <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="EditorRight" />
     </macro>
   </component>
 </application>
