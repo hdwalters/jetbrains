@@ -1,8 +1,4 @@
 <application>
-  <component name="AndroidFoldingSettings">
-    <option name="collapseAndroidStrings" value="false" />
-    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
-  </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseConditionallyNotCompiled" value="false" />
     <option name="collapseNewLineBeforeLBrace" value="false" />

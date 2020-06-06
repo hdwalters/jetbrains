@@ -1,31 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Source Code Pro" />
-    <option name="LINE_SPACING" value="1.0" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseConstructorGenericParameters" value="false" />
-    <option name="collapseI18nMessages" value="false" />
-    <option name="collapseLambdas" value="false" />
-    <option name="collapseOneLineMethods" value="false" />
-    <option name="collapseSuppressWarnings" value="false" />
-  </component>
-  <component name="SqlFoldingSettings">
-    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
-  </component>
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO\b.*" />
     <pattern useCustomColors="true" case-sensitive="true" pattern="\bHACK\b.*">
@@ -33,10 +6,5 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="e356e3" />
     </pattern>
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
-    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
