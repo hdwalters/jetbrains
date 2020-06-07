@@ -1,12 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
       <action id="EditorLeft" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorLineEnd" />
-      <action id="EditorRight" />
+      <action id="EditorDown" />
     </macro>
   </component>
 </application>
