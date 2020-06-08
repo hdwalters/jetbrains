@@ -1,0 +1,20 @@
+<keymap version="1" name="My Keymap" parent="Default for GNOME">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="ExpressionTypeInfo" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+</keymap>
