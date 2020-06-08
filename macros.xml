@@ -8,8 +8,9 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <typing text-keycode="32:0;78:1;79:0;78:0;69:0;32:0;520:0">&amp;#x20;None&amp;#x20;#</typing>
-      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorPreviousWord" />
