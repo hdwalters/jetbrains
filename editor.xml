@@ -1,4 +1,8 @@
 <application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
@@ -20,6 +24,16 @@
     </option>
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="SqlFoldingSettings">
+    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO\b.*" />
