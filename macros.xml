@@ -1,32 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="44:0;32:0;77:0;69:0;84:0;65:0;86:0;65:0;82:0;61:0;222:0;70:1;73:1;76:1;69:1;222:0">,&amp;#x20;metavar='FILE'</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="EditorRight" />
       <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="45:1;66:0;73:0;78:0;65:0;82:0;89:0">_binary</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="70:0;73:0;76:0;69:0;44:0;32:0">file,&amp;#x20;</typing>
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
