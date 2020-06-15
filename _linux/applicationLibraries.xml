@@ -1,4 +1,9 @@
 <application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file:///app/versions/gwt/gwt-2.9.0" />
+    </gwt-sdk-list>
+  </component>
   <component name="libraryTable">
     <library name="Elixir 1.9.1">
       <CLASSES>
@@ -27,6 +32,7 @@
         <root url="file:///usr/lib/erlang/lib/sasl-3.4.1/ebin" />
         <root url="file:///usr/lib/erlang/lib/hipe-3.19.2/ebin" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="Erlang for Elixir 22">
@@ -50,6 +56,7 @@
         <root url="file:///usr/lib/erlang/lib/sasl-3.4.1/ebin" />
         <root url="file:///usr/lib/erlang/lib/hipe-3.19.2/ebin" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
