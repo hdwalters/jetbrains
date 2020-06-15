@@ -1,8 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="50:1">&quot;</typing>
       <action id="EditorRight" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="45:1;66:0;73:0;78:0;65:0;82:0;89:0">_binary</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="70:0;73:0;76:0;69:0;44:0;32:0">file,&amp;#x20;</typing>
+      <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
   </component>
