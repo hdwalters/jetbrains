@@ -2,6 +2,7 @@
   <component name="GwtSdkManager">
     <gwt-sdk-list>
       <gwt-sdk url="file:///app/versions/gwt/gwt-2.9.0" />
+      <gwt-sdk url="file:///app/versions/gwt/gwt-2.9.0" />
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
