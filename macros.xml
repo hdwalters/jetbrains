@@ -1,8 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="CommentByLineComment" />
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorEnter" />
+      <action id="EditorUnindentSelection" />
     </macro>
   </component>
 </application>
