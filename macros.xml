@@ -1,9 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;70:1;73:0;76:0;69:0;57:1;48:1">createFile()</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="70:0;76:0;69:0">fle</typing>
+      <action id="EditorChooseLookupItem" />
     </macro>
   </component>
 </application>
