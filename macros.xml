@@ -1,14 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="44:0;32:0;84:1;82:0;65:0;78:0;83:0;67:0;82:0;73:0;80:0;84:0;77:1;65:0;78:0;65:0;71:0;69:0;82:0;46:0;78:1;85:1;76:1;76:1">,&amp;#x20;TranscriptManager.NULL</typing>
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorRight" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
