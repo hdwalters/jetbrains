@@ -6,7 +6,7 @@
       <action id="EditorPreviousWord" />
       <action id="EditorRightWithSelection" />
       <action id="EditorToggleCase" />
-      <action id="EditorLeft" />
+      <action id="EditorRight" />
       <action id="FindNext" />
     </macro>
   </component>
