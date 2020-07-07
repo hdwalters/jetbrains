@@ -1,16 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="68:1;73:1;83:1;65:1;66:1;76:1;69:1;68:1">DISABLED</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="65:0;71:0;71:0;82:0;69:0;71:0;65:0;84:0;79:0;82:0;46:0;83:0;69:0;84:0;78:1;79:0;84:0;73:0;70:0;73:0;69:0;82:0;57:1;83:0;84:0;65:0;84:0;85:0;83:0;69:0;83:0;59:1;59:1;65:0;68:0;68:0">aggregator.setNotifier(statuses::add</typing>
-      <action id="EditorLineEnd" />
-      <typing text-keycode="59:0">;</typing>
-      <action id="GotoNextError" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
