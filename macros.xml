@@ -1,13 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <typing text-keycode="65:0;68:0;68:0;83:1;85:0;66:0;74:0;69:0;67:0;84:0">addSubject</typing>
-      <action id="EditorLineEnd" />
+      <typing text-keycode="80:0;32:0;45:0;46:1;32:1;78:0;69:0;87:0;32:0;67:1;84:1;70:1;83:1;69:0;82:0;86:0;73:0;67:0;69:0;57:1;80:0;44:0;32:0">p&amp;#x20;-&gt;&amp;#x20;new&amp;#x20;CTFService(p,&amp;#x20;</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="48:1">)</typing>
       <action id="GotoNextError" />
     </macro>
   </component>
