@@ -1,11 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <typing text-keycode="79:1;77:1;88:1;78:1;79:0;82:0;68:0;73:0;67:0">OMXNordic</typing>
+      <action id="MethodUp" />
+      <action id="EditorUp" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;73:1;71:0;78:0;79:0;82:0;69:0">@Ignore</typing>
+      <action id="EditorRight" />
+      <action id="MethodDown" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
