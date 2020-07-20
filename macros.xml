@@ -1,15 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
-      <action id="MoveStatementUp" />
-      <action id="EditorDown" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorDownWithSelection" />
-      <action id="EditorBackSpace" />
-      <shortuct text="F8" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="50:1;83:1;85:0;66:0;83:0;67:0;82:0;73:0;66:0;69:0;50:1;32:0;77:0;69:0;83:0;83:0;65:0;71:0;69:0;83:0">&quot;Subscribe&quot;&amp;#x20;messages</typing>
+      <action id="EditorLineEnd" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
