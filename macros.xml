@@ -1,9 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
       <action id="EditorRight" />
-      <action id="EditorPaste" />
+      <action id="EditorLeft" />
+      <typing text-keycode="44:0;32:0;83:1;85:0;66:0;83:0;67:0;82:0;73:0;80:0;84:0;73:0;79:0;78:0;84:1;89:0;80:0;69:0;46:0;68:1;69:1;80:1;84:1;72:1">,&amp;#x20;SubscriptionType.DEPTH</typing>
+      <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
   </component>
