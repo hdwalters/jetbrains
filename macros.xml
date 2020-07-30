@@ -1,9 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;80:1;82:0;79:0;86:0;73:0;68:0;69:0;82:0;80:1;76:0;85:0;71:0;73:0;78:0">createProviderPlugin</typing>
-      <action id="EditorRight" />
-      <action id="FindNext" />
+      <typing text-keycode="83:1;84:0;65:0;84:0;69:0;46:0">State.</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
