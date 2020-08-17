@@ -4,9 +4,17 @@
       <action id="EditorLineEnd" />
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
-      <typing text-keycode="44:0;32:0;78:1;85:1;76:1;76:1">,&amp;#x20;NULL</typing>
       <action id="EditorPreviousWord" />
-      <typing text-keycode="84:1;82:0;65:0;78:0;83:0;67:0;82:0;73:0;80:0;84:0;77:1;65:0;78:0;65:0;71:0;69:0;82:0;46:0">TranscriptManager.</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCut" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPaste" />
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
