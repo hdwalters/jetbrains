@@ -2,16 +2,11 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="84:0;82:0;65:0;78:0;83:0">trans</typing>
-      <action id="EditorDown" />
-      <action id="EditorChooseLookupItem" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="87:0;82:0;77:0;69:0;83:0">wrmes</typing>
-      <action id="EditorChooseLookupItem" />
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
   </component>
