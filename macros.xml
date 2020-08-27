@@ -1,20 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <typing text-keycode="32:0;79:0;82:0;32:0">&amp;#x20;or&amp;#x20;</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCopy" />
-      <typing text-keycode="73:0;78:0;68:0;69:0;88:0;49:0;44:0;32:0;73:0;78:0;68:0;69:0;88:0;50:0;44:0;32:0;73:0;78:0;68:0;69:0;88:0;51:0">index1,&amp;#x20;index2,&amp;#x20;index3</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <action id="EditorPaste" />
-      <typing text-keycode="32:0;61:0;32:0;83:0;69:0;76:0;70:0;46:0;45:1;83:0;69:0;76:0;69:0;67:0;84:0;45:1;73:0;78:0;68:0;69:0;88:0;57:1;73:0;78:0;68:0;69:0;88:0;49:0;44:0;32:0;73:0;78:0;68:0;69:0;88:0;50:0;44:0;32:0;73:0;78:0;68:0;69:0;88:0;51:0;48:1">&amp;#x20;=&amp;#x20;self._select_index(index1,&amp;#x20;index2,&amp;#x20;index3)</typing>
-      <action id="EditorDown" />
+      <action id="EditorLeft" />
+      <action id="EditorBackSpace" />
       <action id="EditorLineStart" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorBackSpace" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
