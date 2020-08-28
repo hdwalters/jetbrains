@@ -1,7 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="77:1;69:1;84:1;82:1;73:1;67:1;83:1">METRICS</typing>
+      <typing text-keycode="82:1;69:1;71:1;73:1;83:1;84:1;82:1;89:1">REGISTRY</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
