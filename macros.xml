@@ -1,9 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="83:0;69:0;84:0;84:0;73:0;78:0;71:0;83:0;46:0">settings.</typing>
+      <typing text-keycode="91:1;53:1">{%</typing>
       <action id="EditorNextWord" />
-      <action id="GotoNextError" />
+      <typing text-keycode="93:1">}</typing>
+      <action id="EditorNextWord" />
     </macro>
   </component>
 </application>
