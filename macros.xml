@@ -1,5 +1,8 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;" />
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="68:0;69:0;70:0;76:0;65:0;84:0;69:0;68:0">deflated</typing>
+      <action id="FindNext" />
+    </macro>
   </component>
 </application>
