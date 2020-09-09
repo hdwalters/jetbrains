@@ -1,17 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <typing text-keycode="78:0;69:0;87:0;32:0;73:1;80:1;65:1;68:0;68:0;82:0;69:0;83:0;83:0;82:1;65:0;78:0;71:0;69:0;91:0;93:0;91:1">new&amp;#x20;IPAddressRange[]{</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="93:1">}</typing>
-      <action id="EditorBackSpace" />
-      <action id="EditorLeft" />
-      <typing text-keycode="93:1">}</typing>
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="EditorEnter" />
+      <action id="$Undo" />
+      <action id="$Undo" />
     </macro>
   </component>
 </application>
