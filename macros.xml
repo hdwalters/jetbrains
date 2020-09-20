@@ -1,11 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;45:1;67:0;79:0;78:0;70:0;73:0;71:0">create_config</typing>
+      <typing text-keycode="86:0;69:0;67:0;49:1;91:0">vec![</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <typing text-keycode="93:0">]</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
