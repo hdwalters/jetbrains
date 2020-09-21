@@ -1,10 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="44:0;32:0;69:0;77:0;80:0;84:0;89:0;76:1;73:0;83:0;84:0;57:1;48:1">,&amp;#x20;emptyList()</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="84:0;69:0;83:0;84:0;45:1">test_</typing>
       <action id="EditorLineEnd" />
       <action id="GotoNextError" />
     </macro>
