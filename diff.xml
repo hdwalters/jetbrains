@@ -63,15 +63,13 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="DirDiff">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
       </entry>
     </option>
   </component>
