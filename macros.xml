@@ -1,8 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="ToggleLineBreakpoint" />
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <typing text-keycode="222:0;65:0;32:0">'a&amp;#x20;</typing>
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
