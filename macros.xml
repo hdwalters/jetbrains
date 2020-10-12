@@ -1,9 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <typing text-keycode="222:0;65:0;32:0">'a&amp;#x20;</typing>
-      <action id="GotoNextError" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
     </macro>
   </component>
 </application>
