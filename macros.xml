@@ -1,7 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorBackSpace" />
+      <action id="EditorRight" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <typing text-keycode="46:0;67:0;76:0;69:0;65:0;82:0;57:1;48:1">.clear()</typing>
+      <action id="EditorRight" />
       <action id="FindNext" />
     </macro>
   </component>
