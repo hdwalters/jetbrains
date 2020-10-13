@@ -1,7 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="EditorRight" />
+      <action id="EditorPaste" />
       <action id="FindNext" />
     </macro>
   </component>
