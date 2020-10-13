@@ -1,9 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLeft" />
+      <typing text-keycode="88:1;77:0;76:0;80:1;65:0;82:0;83:0;69:0;82:0;59:1;59:1">XmlParser::</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorRight" />
-      <action id="EditorPaste" />
       <action id="FindNext" />
     </macro>
   </component>
