@@ -11,11 +11,10 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.kt</mask>
     <mask>Status*.kt</mask>
     <mask>*.prop*</mask>
     <mask>*.exs</mask>
@@ -28,5 +27,6 @@
     <mask>*.java,*.rs</mask>
     <mask>*.pprop</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
