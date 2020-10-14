@@ -3,8 +3,8 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
       <action id="EditorRight" />
-      <action id="EditorPaste" />
-      <action id="FindNext" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorBackSpace" />
     </macro>
   </component>
 </application>
