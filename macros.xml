@@ -1,12 +1,18 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="84:1;83:0;69:1;82:0;82:0;79:0;82:0;59:1;59:1;70:0;82:0;79:0;77:0;57:1">TsError::from(</typing>
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;45:1;79:0;75:0">assert_ok</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorBackSpace" />
       <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
