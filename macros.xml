@@ -1,7 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="65:0;78:0;32:0;88:1;77:1;76:1;32:1;70:0;73:0;76:0;69:0">an&amp;#x20;XML&amp;#x20;file</typing>
+      <action id="EditorRight" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <typing text-keycode="83:0">s</typing>
       <action id="FindNext" />
     </macro>
   </component>
