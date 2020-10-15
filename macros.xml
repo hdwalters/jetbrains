@@ -1,12 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <typing text-keycode="79:1;80:0;69:0;82:0;65:0;84:0;73:0;79:0;78:0;83:0">Operations</typing>
-      <action id="MethodDown" />
+      <typing text-keycode="65:0;78:0;32:0;88:1;77:1;76:1;32:1;70:0;73:0;76:0;69:0">an&amp;#x20;XML&amp;#x20;file</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
