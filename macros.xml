@@ -5,8 +5,6 @@
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
       <action id="EditorEnter" />
     </macro>
   </component>
