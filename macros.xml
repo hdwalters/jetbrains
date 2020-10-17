@@ -1,11 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="70:0;78:0">fn</typing>
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="520:0;91:0;84:0;69:0;83:0;84:0;93:0">#[test]</typing>
+      <action id="EditorEnter" />
       <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="47:1">?</typing>
-      <action id="EditorLineEnd" />
-      <action id="FindNext" />
+      <typing text-keycode="57:1;48:1;32:1;91:1">()&amp;#x20;{</typing>
+      <action id="EditorEnter" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorRight" />
     </macro>
   </component>
 </application>
