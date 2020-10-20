@@ -1,18 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="83:1;89:0;77:0;66:0;79:0;76:0">Symbol</typing>
-      <action id="MethodDown" />
+      <typing text-keycode="55:1">&amp;</typing>
+      <action id="EditorLineEnd" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
