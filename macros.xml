@@ -2,9 +2,12 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorPreviousWordWithSelection" />
-      <typing text-keycode="80:1;82:0;69:0;83:0;69:0;78:0;84:0">Present</typing>
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="92:0">\</typing>
+      <action id="FindNext" />
       <action id="EditorRight" />
+      <action id="EditorLeftWithSelection" />
+      <typing text-keycode="92:0">\</typing>
       <action id="FindNext" />
     </macro>
   </component>
