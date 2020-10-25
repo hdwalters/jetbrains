@@ -2,13 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorRight" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="67:1;79:0;78:0;84:0;65:0;73:0;78:0;69:0;82:0;59:1;59:1;65:0;82:0;82:0;65:0;89:0">Container::array</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="65:1">A</typing>
-      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="80:1;82:0;69:0;83:0;69:0;78:0;84:0">Present</typing>
+      <action id="EditorRight" />
       <action id="FindNext" />
     </macro>
   </component>
