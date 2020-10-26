@@ -2,11 +2,31 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLeft" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <typing text-keycode="74:1;83:0;79:0;78:0;80:1;65:0;82:0;83:0;69:0;82:0;59:1;59:1">JsonParser::</typing>
       <action id="EditorNextWord" />
-      <action id="FindNext" />
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="70:0;65:0;73:0;76:0;45:1;83:0;72:0;79:0;82:0;84:0">fail_short</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="76:0;73:0;78:0;69:0;44:0;32:0;78:0;68:0;69:0;88:0;44:0;32:0">line,&amp;#x20;ndex,&amp;#x20;</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="73:0">i</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLineEndWithSelection" />
+      <typing text-keycode="47:1;59:0">?;</typing>
     </macro>
   </component>
 </application>
