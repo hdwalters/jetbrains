@@ -1,9 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="73:1;84:0;69:0;82:0;65:0;84:0;79:0;82:0">Iterator</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorRight" />
-      <typing text-keycode="73:1;84:0;69:0;77:0;32:0;61:0;32:0">Item&amp;#x20;=&amp;#x20;</typing>
+      <typing text-keycode="73:0;79:0;59:1;59:1;82:1;69:0;83:0;85:0;76:0;84:0;44:1">io::Result&lt;</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="46:1">&gt;</typing>
+      <action id="EditorLineEnd" />
       <action id="FindNext" />
     </macro>
   </component>
