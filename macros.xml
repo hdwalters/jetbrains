@@ -4,6 +4,7 @@
       <action id="EditorLineEnd" />
       <action id="EditorCodeBlockEnd" />
       <action id="EditorLineStart" />
+      <action id="EditorUpWithSelection" />
       <action id="EditorPaste" />
       <action id="MethodDown" />
     </macro>
