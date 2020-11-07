@@ -1,12 +1,21 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorUp" />
       <action id="EditorLineEnd" />
-      <action id="EditorCodeBlockEnd" />
-      <action id="EditorLineStart" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorPaste" />
-      <action id="MethodDown" />
+      <action id="EditorBackSpace" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorTab" />
+      <typing text-keycode="46:0;87:0;73:0;84:0;72:0;45:1;69:0;88:0;84:0;82:0;65:0;57:1;83:1;84:0;82:0;73:0;78:0;71:0;59:1;59:1;70:0;82:0;79:0;77:0;57:1">.with_extra(String::from(</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <typing text-keycode="48:1;48:1">))</typing>
+      <action id="EditorRight" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
     </macro>
   </component>
 </application>
