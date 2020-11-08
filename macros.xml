@@ -1,24 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
       <action id="EditorRight" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorEnter" />
-      <action id="EditorTab" />
-      <typing text-keycode="46:0;77:0;65:0;80:0;57:1;92:1;88:0;92:1;32:0;88:0;46:0">.map(|x|&amp;#x20;x.</typing>
-      <action id="EditorLineStart" />
     </macro>
   </component>
 </application>
