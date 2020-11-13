@@ -1,9 +1,25 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="80:1;65:0;84:0;72:0">Path</typing>
-      <action id="EditorRight" />
-      <action id="FindNext" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="45:0">-</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
     </macro>
   </component>
 </application>
