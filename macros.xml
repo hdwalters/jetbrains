@@ -1,18 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorRight" />
+      <typing text-keycode="77:0;85:0;84:0;32:0">mut&amp;#x20;</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-      <typing text-keycode="45:0">-</typing>
-      <action id="EditorDown" />
-      <action id="EditorLeft" />
-      <typing text-keycode="45:0">-</typing>
-      <action id="EditorDown" />
-      <action id="EditorLineStart" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
