@@ -5,19 +5,12 @@
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
       <action id="EditorPreviousWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
       <typing text-keycode="45:0">-</typing>
       <action id="EditorDown" />
-      <action id="EditorLineEnd" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-      <action id="EditorLineEnd" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorBackSpace" />
+      <action id="EditorLeft" />
+      <typing text-keycode="45:0">-</typing>
       <action id="EditorDown" />
       <action id="EditorLineStart" />
     </macro>
