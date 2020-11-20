@@ -2,7 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLeft" />
-      <typing text-keycode="50:0;32:1;56:1;32:1">2&amp;#x20;*&amp;#x20;</typing>
+      <action id="EditorRightWithSelection" />
+      <action id="EditorToggleCase" />
+      <action id="EditorRight" />
       <action id="EditorNextWord" />
       <action id="FindNext" />
     </macro>
