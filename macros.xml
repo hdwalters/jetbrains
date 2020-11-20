@@ -1,12 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLeft" />
-      <action id="EditorRightWithSelection" />
-      <action id="EditorToggleCase" />
-      <action id="EditorRight" />
-      <action id="EditorNextWord" />
-      <action id="FindNext" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="72:0;65:0;78:0;68:0;76:0;69:0;82:0;46:0;72:0;65:0;78:0;68:0;76:0;69:0;45:1;68:0;79:0;78:0;69:0;57:1;48:1;47:1;59:0">handler.handle_done()?;</typing>
+      <action id="MethodDown" />
+      <action id="MethodDown" />
+      <action id="FindPrevious" />
     </macro>
   </component>
 </application>
