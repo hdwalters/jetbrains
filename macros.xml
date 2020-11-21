@@ -1,15 +1,31 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="57:1">(</typing>
       <action id="EditorLineEnd" />
       <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorLeft" />
-      <typing text-keycode="44:0;32:0;73:0;78:0;68:0;69:0;88:0">,&amp;#x20;index</typing>
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="67:0;82:0;69:0;65:0;84:0;69:0;45:1;66:0;65:0;68:0;45:1;67:0;72:0;65:0;82:0">create_bad_char</typing>
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="83:0;69:0;76:0;70:0;46:0">self.</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="57:1;76:0;73:0;78:0;69:0;44:0;32:0;73:0;78:0;68:0;69:0;88:0;44:0;32:0;67:0;72:0;65:0;82:0;44:0;32:0;76:0;65:0;83:0;84:0">(line,&amp;#x20;index,&amp;#x20;char,&amp;#x20;last</typing>
       <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
