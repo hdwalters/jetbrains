@@ -1,19 +1,27 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="MethodDown" />
-      <action id="EditorUp" />
-      <action id="EditorUp" />
-      <action id="EditorUp" />
-      <action id="EditorUp" />
+      <action id="EditorDown" />
       <action id="EditorNextWord" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="69:0;82:0;82:0">err</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
       <action id="EditorLineEnd" />
       <action id="EditorLeft" />
       <action id="EditorLeft" />
-      <typing text-keycode="44:0;32:0;88:1;77:0;76:0;83:1;84:0;65:0;84:0;69:0;59:1;59:1;73:1;78:0;73:0;84:0;44:0;32:0;222:0;32:0;222:0">,&amp;#x20;XmlState::Init,&amp;#x20;'&amp;#x20;'</typing>
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="83:1;84:0;82:0;73:0;78:0;71:0;59:1;59:1;70:0;82:0;79:0;77:0;57:1;82:0;520:0;50:1;44:1;47:0;79:1;85:0;84:0;69:0;82:0;46:1;50:1;520:0">String::from(r#&quot;&lt;/Outer&gt;&quot;#</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="MethodDown" />
+      <action id="MethodDown" />
       <action id="MethodDown" />
     </macro>
   </component>
