@@ -19,6 +19,7 @@
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
