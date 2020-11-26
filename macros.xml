@@ -1,9 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="69:1;88:0;84:0;82:0;65:0;70:1;79:0;77:0;65:0;84:0">ExtraFomat</typing>
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
+      <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorPaste" />
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
