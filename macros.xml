@@ -1,28 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorEnter" />
-      <action id="EditorLineEnd" />
+      <typing text-keycode="69:1;88:0;84:0;82:0;65:0;70:1;79:0;77:0;65:0;84:0">ExtraFomat</typing>
       <action id="EditorLeft" />
       <action id="EditorLeft" />
-      <typing text-keycode="44:0">,</typing>
-      <action id="EditorEnter" />
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="83:1;84:0;82:0;73:0;78:0;71:0;59:1;59:1;70:0;82:0;79:0;77:0;57:1;82:0;520:0;50:1;44:1;47:0;79:1;85:0;84:0;69:0;82:0;46:1;50:1;520:0">String::from(r#&quot;&lt;/Outer&gt;&quot;#</typing>
-      <action id="EditorLineEnd" />
-      <typing text-keycode="44:0">,</typing>
-      <action id="MethodDown" />
-      <action id="MethodDown" />
-      <action id="MethodDown" />
     </macro>
   </component>
 </application>
