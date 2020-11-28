@@ -1,14 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorLeft" />
       <typing text-keycode="83:1;84:0;82:0;73:0;78:0;71:0;59:1;59:1;70:0;82:0;79:0;77:0;57:1">String::from(</typing>
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <typing text-keycode="48:1">)</typing>
-      <action id="FindNext" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
