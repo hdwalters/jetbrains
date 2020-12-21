@@ -1,7 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorBackSpace" />
+      <action id="EditorLeft" />
+      <action id="EditorDuplicate" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="69:0;84:0;73:0">eti</typing>
       <action id="FindNext" />
     </macro>
   </component>
