@@ -1,10 +1,16 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorJoinLines" />
       <action id="EditorRight" />
-      <action id="EditorPreviousWordWithSelection" />
-      <typing text-keycode="76:0;69:0;86:0;69:0;76:0">level</typing>
-      <action id="FindNext" />
+      <action id="EditorBackSpace" />
+      <action id="EditorJoinLines" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineEnd" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
     </macro>
   </component>
 </application>
