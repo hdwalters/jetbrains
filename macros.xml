@@ -1,14 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
+      <action id="EditorLineStart" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorDownWithSelection" />
       <action id="EditorRightWithSelection" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="91:0;48:0;93:0;32:0;79:0;82:0;32:0;222:0;222:0">[0]&amp;#x20;or&amp;#x20;''</typing>
-      <action id="FindNext" />
+      <action id="EditorJoinLines" />
+      <action id="MethodDown" />
     </macro>
   </component>
 </application>
