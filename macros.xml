@@ -1,15 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
       <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="67:0;83:0;80:0;83:1;69:0;82:0;86:0;69:0;82:0;83:0">cspServers</typing>
       <action id="FindNext" />
     </macro>
   </component>
