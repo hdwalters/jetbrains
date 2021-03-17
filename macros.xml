@@ -1,19 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorCut" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPaste" />
-      <typing text-keycode="44:0;32:0;50:1;67:1;84:1;70:1;45:1;65:1;50:1;44:0;32:0">,&amp;#x20;&quot;CTF_A&quot;,&amp;#x20;</typing>
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <action id="MethodUp" />
+      <action id="EditorUp" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;73:1;71:0;78:0;79:0;82:0;69:0">@Ignore</typing>
+      <action id="EditorRight" />
     </macro>
   </component>
 </application>
