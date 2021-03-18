@@ -1,17 +1,18 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="EditorLeft" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
       <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="54:0;50:0;55:0">627</typing>
+      <action id="FindNext" />
+      <action id="EditorLeft" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorLineEnd" />
-      <action id="GotoNextError" />
+      <typing text-keycode="54:0;50:0;56:0">628</typing>
+      <action id="FindNext" />
     </macro>
   </component>
 </application>
