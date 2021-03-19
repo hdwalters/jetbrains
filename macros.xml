@@ -1,8 +1,21 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <typing text-keycode="47:0;47:0;32:0;72:1;65:1;67:1;75:1;32:1">//&amp;#x20;HACK&amp;#x20;</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="88:1">X</typing>
+      <action id="MethodDown" />
+      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
