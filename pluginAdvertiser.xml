@@ -316,6 +316,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gant">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.groovy" />
+              <option name="myPluginName" value="Groovy" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gdbcommandsfiletypeextension">
           <value>
             <plugin>
@@ -1793,6 +1802,11 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="GroovyScriptRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
                     </value>
                   </entry>
                   <entry key="JUnit">
