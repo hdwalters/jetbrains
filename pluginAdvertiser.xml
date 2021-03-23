@@ -325,6 +325,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gdsl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.groovy" />
+              <option name="myPluginName" value="Groovy" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gif">
           <value>
             <plugin>
@@ -339,6 +348,24 @@
             <plugin>
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.groovy">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.groovy" />
+              <option name="myPluginName" value="Groovy" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gy">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.groovy" />
+              <option name="myPluginName" value="Groovy" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1663,6 +1690,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="logback.groovy">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.groovy" />
+              <option name="myPluginName" value="Groovy" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="lombok.config">
           <value>
             <plugin>
@@ -1677,6 +1713,15 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.idea.maven" />
               <option name="myPluginName" value="Maven" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="org.codehaus.groovy.runtime.ExtensionModule">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.groovy" />
+              <option name="myPluginName" value="Groovy" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
