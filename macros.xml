@@ -1,11 +1,12 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <typing text-keycode="83:0;69:0;82:0;86:0;73:0;67:0;69:0">service</typing>
+      <action id="EditorUp" />
       <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;74:1;83:0;79:0;78:0;73:1;71:0;78:0;79:0;82:0;69:0">@JsonIgnore</typing>
+      <action id="EditorRight" />
       <action id="MethodDown" />
-      <action id="GotoNextError" />
     </macro>
   </component>
 </application>
